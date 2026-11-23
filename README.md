@@ -2,6 +2,12 @@
 
 游戏素材 PNG 轻量包：68,960 张图片，约 2.01 GB。原始全集保存在本地；本仓库保留图片与来源映射。
 
+Windows 克隆时启用长路径支持：
+
+```sh
+git clone -c core.longpaths=true https://github.com/qingshi-3/asset.git
+```
+
 - `assets/`：按原素材包和包内路径保存的 PNG。
 - `index/packages.json`：素材包、中文别名、许可与说明文件的原始位置。
 - `index/files.jsonl`：每张图片的路径、尺寸、字节数、SHA-256 与来源。
