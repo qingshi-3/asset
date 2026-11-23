@@ -1,0 +1,5091 @@
+[
+  {
+    "id": "52f280ec24ce06a7",
+    "source": "UI/craftpix-422530-medieval-gui",
+    "output_prefix": "assets/UI/craftpix-422530-medieval-gui",
+    "png_count": 220,
+    "bytes": 38369012,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-422530-medieval-gui/License.txt"
+    ],
+    "description_sources": [
+      "UI/craftpix-422530-medieval-gui/readme.txt"
+    ]
+  },
+  {
+    "id": "9ab90e8fbf994477",
+    "source": "UI/craftpix-500908-fantasy-rpg-gui",
+    "output_prefix": "assets/UI/craftpix-500908-fantasy-rpg-gui",
+    "png_count": 189,
+    "bytes": 32465011,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-500908-fantasy-rpg-gui/License.txt"
+    ],
+    "description_sources": [
+      "UI/craftpix-500908-fantasy-rpg-gui/readme.txt"
+    ]
+  },
+  {
+    "id": "5e40421959665894",
+    "source": "UI/craftpix-558109-candy-game-ui",
+    "output_prefix": "assets/UI/craftpix-558109-candy-game-ui",
+    "png_count": 191,
+    "bytes": 3357398,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-558109-candy-game-ui/TXT/license.txt"
+    ],
+    "description_sources": [
+      "UI/craftpix-558109-candy-game-ui/TXT/readme.txt"
+    ]
+  },
+  {
+    "id": "00782611292a1559",
+    "source": "UI/craftpix-608609-rpg-gui",
+    "output_prefix": "assets/UI/craftpix-608609-rpg-gui",
+    "png_count": 272,
+    "bytes": 32428028,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-608609-rpg-gui/License.txt"
+    ],
+    "description_sources": [
+      "UI/craftpix-608609-rpg-gui/readme.txt"
+    ]
+  },
+  {
+    "id": "1608af633d12cf0c",
+    "source": "UI/craftpix-781165-game-ui-pixel-art",
+    "output_prefix": "assets/UI/craftpix-781165-game-ui-pixel-art",
+    "png_count": 139,
+    "bytes": 5955209,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-781165-game-ui-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "2723b840cf1976e6",
+    "source": "UI/craftpix-852098-free-tds-modern-gui-pixel-art",
+    "output_prefix": "assets/UI/craftpix-852098-free-tds-modern-gui-pixel-art",
+    "png_count": 98,
+    "bytes": 1441247,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-852098-free-tds-modern-gui-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "UI/craftpix-852098-free-tds-modern-gui-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "bc3a1419f8d021ad",
+    "source": "UI/craftpix-855112-fantasy-game-interface",
+    "output_prefix": "assets/UI/craftpix-855112-fantasy-game-interface",
+    "png_count": 218,
+    "bytes": 34216548,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-855112-fantasy-game-interface/TXT/license.txt"
+    ],
+    "description_sources": [
+      "UI/craftpix-855112-fantasy-game-interface/TXT/readme.txt"
+    ]
+  },
+  {
+    "id": "6de0c33cc5c189c3",
+    "source": "UI/craftpix-891134-fantasy-strategy-game-ui",
+    "output_prefix": "assets/UI/craftpix-891134-fantasy-strategy-game-ui",
+    "png_count": 227,
+    "bytes": 10560931,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-891134-fantasy-strategy-game-ui/TXT/license.txt"
+    ],
+    "description_sources": [
+      "UI/craftpix-891134-fantasy-strategy-game-ui/TXT/readme.txt"
+    ]
+  },
+  {
+    "id": "1c9f6bb046f80b83",
+    "source": "UI/craftpix-891167-pixel-art-space-shooter-gui",
+    "output_prefix": "assets/UI/craftpix-891167-pixel-art-space-shooter-gui",
+    "png_count": 433,
+    "bytes": 2683292,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-891167-pixel-art-space-shooter-gui/License.txt"
+    ],
+    "description_sources": [
+      "UI/craftpix-891167-pixel-art-space-shooter-gui/readme.txt"
+    ]
+  },
+  {
+    "id": "2ee70d2860841039",
+    "source": "UI/craftpix-896711-rpg-game-ui",
+    "output_prefix": "assets/UI/craftpix-896711-rpg-game-ui",
+    "png_count": 966,
+    "bytes": 38362504,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-896711-rpg-game-ui/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "96381209672c9e00",
+    "source": "UI/craftpix-897865-fantasy-platformer-game-ui",
+    "output_prefix": "assets/UI/craftpix-897865-fantasy-platformer-game-ui",
+    "png_count": 572,
+    "bytes": 1258269,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-897865-fantasy-platformer-game-ui/License.txt"
+    ],
+    "description_sources": [
+      "UI/craftpix-897865-fantasy-platformer-game-ui/readme.txt"
+    ]
+  },
+  {
+    "id": "3e6662b81d3cc314",
+    "source": "UI/craftpix-908867-top-down-tank-game-user-interface",
+    "output_prefix": "assets/UI/craftpix-908867-top-down-tank-game-user-interface",
+    "png_count": 427,
+    "bytes": 9356204,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-908867-top-down-tank-game-user-interface/TXT/license.txt"
+    ],
+    "description_sources": [
+      "UI/craftpix-908867-top-down-tank-game-user-interface/TXT/readme.txt"
+    ]
+  },
+  {
+    "id": "adae39f7fd5c3201",
+    "source": "UI/craftpix-918100-underwater-world-game-ui",
+    "output_prefix": "assets/UI/craftpix-918100-underwater-world-game-ui",
+    "png_count": 210,
+    "bytes": 6615343,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-918100-underwater-world-game-ui/TXT/license.txt"
+    ],
+    "description_sources": [
+      "UI/craftpix-918100-underwater-world-game-ui/TXT/readme.txt"
+    ]
+  },
+  {
+    "id": "c8da7a20c74e35fd",
+    "source": "UI/craftpix-net-210167-qiyan-game-interface",
+    "output_prefix": "assets/UI/craftpix-net-210167-qiyan-game-interface",
+    "png_count": 143,
+    "bytes": 1324283,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-net-210167-qiyan-game-interface/license.txt"
+    ],
+    "description_sources": [
+      "UI/craftpix-net-210167-qiyan-game-interface/Readme.txt"
+    ]
+  },
+  {
+    "id": "479070285678afa8",
+    "source": "UI/craftpix-net-228328-starlight-mobile-ui",
+    "output_prefix": "assets/UI/craftpix-net-228328-starlight-mobile-ui",
+    "png_count": 152,
+    "bytes": 4592967,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-net-228328-starlight-mobile-ui/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "6c37dd49fc6e58e0",
+    "source": "UI/craftpix-net-240581-warforge-mobile-ui",
+    "output_prefix": "assets/UI/craftpix-net-240581-warforge-mobile-ui",
+    "png_count": 155,
+    "bytes": 4958144,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-net-240581-warforge-mobile-ui/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "e5a7a7103a2094fd",
+    "source": "UI/craftpix-net-255216-free-basic-pixel-art-ui-for-rpg",
+    "output_prefix": "assets/UI/craftpix-net-255216-free-basic-pixel-art-ui-for-rpg",
+    "png_count": 19,
+    "bytes": 177033,
+    "format": "png",
+    "aliases": [
+      "PNG/GameUI/basic-ui-rpg"
+    ],
+    "license_sources": [
+      "UI/craftpix-net-255216-free-basic-pixel-art-ui-for-rpg/License.txt"
+    ],
+    "description_sources": [
+      "UI/craftpix-net-255216-free-basic-pixel-art-ui-for-rpg/readme.txt"
+    ],
+    "content_duplicate_of": [
+      "rpg/GameUI/craftpix-net-255216-free-basic-pixel-art-ui-for-rpg"
+    ]
+  },
+  {
+    "id": "c8a6bfa6a40fcb0f",
+    "source": "UI/craftpix-net-260778-mobile-fantasy-game-interface",
+    "output_prefix": "assets/UI/craftpix-net-260778-mobile-fantasy-game-interface",
+    "png_count": 1,
+    "bytes": 1927577,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-net-260778-mobile-fantasy-game-interface/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "ad3ab79e3de3a613",
+    "source": "UI/craftpix-net-333176-rpg-and-mmo-ui-x",
+    "output_prefix": "assets/UI/craftpix-net-333176-rpg-and-mmo-ui-x",
+    "png_count": 323,
+    "bytes": 5581137,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-net-333176-rpg-and-mmo-ui-x/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "07a69aea8580906f",
+    "source": "UI/craftpix-net-775352-game-user-interface-pixel-art",
+    "output_prefix": "assets/UI/craftpix-net-775352-game-user-interface-pixel-art",
+    "png_count": 714,
+    "bytes": 789737,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-net-775352-game-user-interface-pixel-art/License.txt"
+    ],
+    "description_sources": [],
+    "content_duplicate_of": [
+      "platformer/UI/craftpix-net-775352-game-user-interface-pixel-art"
+    ]
+  },
+  {
+    "id": "7a43d0ee5476f6be",
+    "source": "UI/craftpix-net-775362-dark-age-ui-for-mobile-games",
+    "output_prefix": "assets/UI/craftpix-net-775362-dark-age-ui-for-mobile-games",
+    "png_count": 165,
+    "bytes": 5806139,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-net-775362-dark-age-ui-for-mobile-games/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "566246a56e51b4cb",
+    "source": "UI/craftpix-net-809047-free-animated-magic-book-pixel-art-asset-pack",
+    "output_prefix": "assets/UI/craftpix-net-809047-free-animated-magic-book-pixel-art-asset-pack",
+    "png_count": 75,
+    "bytes": 641138,
+    "format": "png",
+    "aliases": [
+      "PNG/GameUI/animated-magic-book"
+    ],
+    "license_sources": [
+      "UI/craftpix-net-809047-free-animated-magic-book-pixel-art-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "UI/craftpix-net-809047-free-animated-magic-book-pixel-art-asset-pack/readme.txt"
+    ],
+    "content_duplicate_of": [
+      "rpg/GameUI/craftpix-net-809047-free-animated-magic-book-pixel-art-asset-pack"
+    ]
+  },
+  {
+    "id": "0ce9b256bb1fd578",
+    "source": "UI/craftpix-net-981751-game-ui-buttons-and-icons-vector-art",
+    "output_prefix": "assets/UI/craftpix-net-981751-game-ui-buttons-and-icons-vector-art",
+    "png_count": 1,
+    "bytes": 1581482,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "UI/craftpix-net-981751-game-ui-buttons-and-icons-vector-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "7d9639efd2ea04a0",
+    "source": "game kits/craftpix-000123-tds-modern-pixel-game-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-000123-tds-modern-pixel-game-kit",
+    "png_count": 783,
+    "bytes": 11175777,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-000123-tds-modern-pixel-game-kit.zip",
+        "member": "License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-000123-tds-modern-pixel-game-kit.zip",
+        "member": "tds-modern-soldiers-and-vehicles-sprites-2/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-000123-tds-modern-pixel-game-kit.zip",
+        "member": "tds-pixel-art-modern-soldiers-and-vehicles-sprites/license.txt"
+      }
+    ],
+    "description_sources": [
+      {
+        "archive": "game kits/craftpix-000123-tds-modern-pixel-game-kit.zip",
+        "member": "readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-000123-tds-modern-pixel-game-kit.zip",
+        "member": "tds-modern-soldiers-and-vehicles-sprites-2/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-000123-tds-modern-pixel-game-kit.zip",
+        "member": "tds-pixel-art-modern-soldiers-and-vehicles-sprites/readme.txt"
+      }
+    ]
+  },
+  {
+    "id": "cbad222adaa9f267",
+    "source": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-151311-tactical-strategy-game-kit",
+    "png_count": 3428,
+    "bytes": 266779169,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "2d-fantasy-demon-warrior-character-sprites/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "2d-fantasy-elf-warrior-character-sprites/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "2d-fantasy-people-warrior-character-sprites/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "2d-fantasy-undead-warrior-character-sprites/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "fantasy-strategy-2d-game-assets/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "fantasy-strategy-game-ui/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "tactical-strategy-2d-game-tile-set/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "tactical-strategy-game-tileset/TXT/license.txt"
+      }
+    ],
+    "description_sources": [
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "2d-fantasy-demon-warrior-character-sprites/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "2d-fantasy-elf-warrior-character-sprites/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "2d-fantasy-people-warrior-character-sprites/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "2d-fantasy-undead-warrior-character-sprites/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "fantasy-strategy-2d-game-assets/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "fantasy-strategy-game-ui/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "tactical-strategy-2d-game-tile-set/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-151311-tactical-strategy-game-kit.zip",
+        "member": "tactical-strategy-game-tileset/TXT/readme.txt"
+      }
+    ]
+  },
+  {
+    "id": "ddfb1f0574c90c78",
+    "source": "game kits/craftpix-310891-fortress-defense-2d-game-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-310891-fortress-defense-2d-game-kit",
+    "png_count": 1052,
+    "bytes": 58589161,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-310891-fortress-defense-2d-game-kit.zip",
+        "member": "license.txt"
+      }
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "3a2b3156c7099082",
+    "source": "game kits/craftpix-871156-zombie-tds-2d-game-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-871156-zombie-tds-2d-game-kit",
+    "png_count": 6,
+    "bytes": 7732555,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-871156-zombie-tds-2d-game-kit.zip",
+        "member": "License.txt"
+      }
+    ],
+    "description_sources": [
+      {
+        "archive": "game kits/craftpix-871156-zombie-tds-2d-game-kit.zip",
+        "member": "readme.txt"
+      }
+    ]
+  },
+  {
+    "id": "5b5a7c6da09c372f",
+    "source": "game kits/craftpix-891169-platformer-game-kit-pixel-art.zip",
+    "output_prefix": "assets/game-kits/craftpix-891169-platformer-game-kit-pixel-art",
+    "png_count": 0,
+    "bytes": 0,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "917dab3b85a8678e",
+    "source": "game kits/craftpix-891176-battle-of-heroes-2d-game-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-891176-battle-of-heroes-2d-game-kit",
+    "png_count": 3444,
+    "bytes": 132268697,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-891176-battle-of-heroes-2d-game-kit.zip",
+        "member": "license.txt"
+      }
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "dd54cc9a154071b0",
+    "source": "game kits/craftpix-891176-gladiators-2d-game-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-891176-gladiators-2d-game-kit",
+    "png_count": 884,
+    "bytes": 16826614,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-891176-gladiators-2d-game-kit.zip",
+        "member": "License.txt"
+      }
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "affd851bf23d16e0",
+    "source": "game kits/craftpix-891176-light-adventure-platformer-game-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-891176-light-adventure-platformer-game-kit",
+    "png_count": 89,
+    "bytes": 1846404,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-891176-light-adventure-platformer-game-kit.zip",
+        "member": "License.txt"
+      }
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "71fa200d33770c55",
+    "source": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+    "output_prefix": "assets/game-kits/craftpix-891177-space-shooter-creation-kit-pixel-art",
+    "png_count": 5961,
+    "bytes": 31282337,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-alien-spaceship-2d-game-sprites/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-boss-spaceship-2d-game-sprites/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-enemy-spaceship-2d-sprites/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-sci-fi-character-avatar-icons/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-sci-fi-icons-pack/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-space-2d-game-backgrounds/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-space-pirates-2d-game-sprites/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-space-shooter-2d-tileset/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-space-shooter-game-tileset/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-space-shooter-gui/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-space-trap-game-asset-pack/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-spaceship-2d-game-sprites/License.txt"
+      }
+    ],
+    "description_sources": [
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-alien-spaceship-2d-game-sprites/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-boss-spaceship-2d-game-sprites/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-enemy-spaceship-2d-sprites/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-sci-fi-character-avatar-icons/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-sci-fi-icons-pack/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-space-2d-game-backgrounds/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-space-pirates-2d-game-sprites/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-space-shooter-2d-tileset/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-space-shooter-game-tileset/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-space-shooter-gui/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-space-trap-game-asset-pack/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "pixel-art-spaceship-2d-game-sprites/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-891177-space-shooter-creation-kit-pixel-art.zip",
+        "member": "readme.txt"
+      }
+    ]
+  },
+  {
+    "id": "8d2c84b602c5a8e3",
+    "source": "game kits/craftpix-891177-tank-wars-2d-game-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-891177-tank-wars-2d-game-kit",
+    "png_count": 201,
+    "bytes": 11663652,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-891177-tank-wars-2d-game-kit.zip",
+        "member": "TXT/license.txt"
+      }
+    ],
+    "description_sources": [
+      {
+        "archive": "game kits/craftpix-891177-tank-wars-2d-game-kit.zip",
+        "member": "TXT/readme.txt"
+      }
+    ]
+  },
+  {
+    "id": "fa0463320717ef31",
+    "source": "game kits/craftpix-891178-plane-shooter-2d-game-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-891178-plane-shooter-2d-game-kit",
+    "png_count": 185,
+    "bytes": 2857364,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-891178-plane-shooter-2d-game-kit.zip",
+        "member": "license.txt"
+      }
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "339cb1e87b4f6467",
+    "source": "game kits/craftpix-908811-top-down-tank-game-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-908811-top-down-tank-game-kit",
+    "png_count": 0,
+    "bytes": 0,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "80c966f1260dc527",
+    "source": "game kits/craftpix-net-212571-cartoon-defense-game-assets-pack.zip",
+    "output_prefix": "assets/game-kits/craftpix-net-212571-cartoon-defense-game-assets-pack",
+    "png_count": 1276,
+    "bytes": 25096698,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-net-212571-cartoon-defense-game-assets-pack.zip",
+        "member": "License.txt"
+      }
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "38527186455e9dc4",
+    "source": "game kits/craftpix-net-239749-merge-shooter-cartoon-asset-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-net-239749-merge-shooter-cartoon-asset-kit",
+    "png_count": 540,
+    "bytes": 7955279,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-net-239749-merge-shooter-cartoon-asset-kit.zip",
+        "member": "License.txt"
+      }
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "3eb0f1f445dc559f",
+    "source": "game kits/craftpix-net-267719-chess-and-checkers-game-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-net-267719-chess-and-checkers-game-kit",
+    "png_count": 75,
+    "bytes": 25595441,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-net-267719-chess-and-checkers-game-kit.zip",
+        "member": "License.txt"
+      }
+    ],
+    "description_sources": [
+      {
+        "archive": "game kits/craftpix-net-267719-chess-and-checkers-game-kit.zip",
+        "member": "readme.txt"
+      }
+    ]
+  },
+  {
+    "id": "9121e723eece40d9",
+    "source": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-net-374456-rpg-platformer-game-kit",
+    "png_count": 3740,
+    "bytes": 335277504,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "1_Main_character/Archer/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Death_Knight/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Ghoul/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Lich/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Mummy/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Skeletons/Skeleton_1/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Skeletons/Skeleton_2/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Skeletons/Skeleton_3/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Skeleton/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Undead Archer/Archer_1/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Undead Archer/Archer_2/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Undead Archer/Archer_3/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Zombie/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "3_Shop/NPC/Magician_1/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "3_Shop/NPC/Magician_2/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "3_Shop/Staff/Archer Skills/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "3_Shop/Staff/Bow/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "3_Shop/Staff/Poition/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "4_Main_location/VILLAGE CARTOON 2D PLATFORMER TILESET/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "5_Levels/ANCIENT DUNGEON 2D GAME TILESET/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "5_Levels/BADLANDS CARTOON 2D GAME TILESET/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "5_Levels/MEDIEVAL RUINS CARTOON 2D TILESET/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "6_UI/TXT/license.txt"
+      }
+    ],
+    "description_sources": [
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "1_Main_character/Archer/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Death_Knight/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Ghoul/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Lich/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Mummy/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Skeletons/Skeleton_1/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Skeletons/Skeleton_2/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Skeletons/Skeleton_3/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Skeleton/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Undead Archer/Archer_1/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Undead Archer/Archer_2/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Undead Archer/Archer_3/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "2_Enemies/Zombie/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "3_Shop/NPC/Magician_1/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "3_Shop/NPC/Magician_2/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "3_Shop/Staff/Archer Skills/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "3_Shop/Staff/Bow/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "3_Shop/Staff/Poition/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "4_Main_location/VILLAGE CARTOON 2D PLATFORMER TILESET/TXT/Readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "5_Levels/ANCIENT DUNGEON 2D GAME TILESET/TXT/Readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "5_Levels/BADLANDS CARTOON 2D GAME TILESET/TXT/Readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "5_Levels/MEDIEVAL RUINS CARTOON 2D TILESET/TXT/Readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-374456-rpg-platformer-game-kit.zip",
+        "member": "6_UI/TXT/readme.txt"
+      }
+    ]
+  },
+  {
+    "id": "e1e726307b34e007",
+    "source": "game kits/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art.zip",
+    "output_prefix": "assets/game-kits/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art",
+    "png_count": 494,
+    "bytes": 236457,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art.zip",
+        "member": "License.txt"
+      }
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "0736d59693e652a7",
+    "source": "game kits/craftpix-net-436971-free-top-down-roguelike-game-kit-pixel-art.zip",
+    "output_prefix": "assets/game-kits/craftpix-net-436971-free-top-down-roguelike-game-kit-pixel-art",
+    "png_count": 613,
+    "bytes": 550609,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-net-436971-free-top-down-roguelike-game-kit-pixel-art.zip",
+        "member": "license.txt"
+      }
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "f98f40b744b4e696",
+    "source": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-net-519305-tower-defense-2d-game-kit",
+    "png_count": 6712,
+    "bytes": 301309712,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "2d-monster-sprites/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "archer-tower-game-assets/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "boss-monster-game-sprites/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "magic-effects-game-sprite/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "magic-tower-game-assets/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "monster-character-2d-sprites/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "monster-enemy-game-sprites/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "stone-tower-game-assets/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "support-tower-game-assets/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "td-gui/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "td-tileset3/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "td-tilesets1-2/tower-defense-game-tile-set-pack-2/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "td-tilesets1-2/tower-defense-game-tilesets/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "tower-defense-monster-2d-sprites/TXT/license.txt"
+      }
+    ],
+    "description_sources": [
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "2d-monster-sprites/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "archer-tower-game-assets/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "boss-monster-game-sprites/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "magic-effects-game-sprite/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "magic-tower-game-assets/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "monster-character-2d-sprites/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "monster-enemy-game-sprites/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "stone-tower-game-assets/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "support-tower-game-assets/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "td-gui/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "td-tileset3/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "td-tilesets1-2/tower-defense-game-tile-set-pack-2/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "td-tilesets1-2/tower-defense-game-tilesets/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-519305-tower-defense-2d-game-kit.zip",
+        "member": "tower-defense-monster-2d-sprites/TXT/readme.txt"
+      }
+    ]
+  },
+  {
+    "id": "8354bbfe85180abc",
+    "source": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+    "output_prefix": "assets/game-kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art",
+    "png_count": 5568,
+    "bytes": 20077202,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "10-magic-effects-pixel-art-pack/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "2d-pixel-art-evil-monster-sprites/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "animated-traps-and-obstacles-pixel-art/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "assassin-mage-viking-free-pixel-art-game-heroes/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "bosses-pixel-art-game-assets-pack/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "castle-platformer-pixel-art-tileset/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "dungeon-platformer-pixel-art-tileset-2/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "dungeon-platformer-pixel-art-tileset/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "fantasy-character-avatar-icons-pixel-art/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "fantasy-platformer-game-ui/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "fire-monster-game-sprites-pixel-art/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "food-icons-pixel-art/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "ingredient-icons-pixel-art/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "mountain-monsters-pixel-art-pack/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "mountain-platformer-pixel-art-tileset/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "pixel-art-characters-for-platformer-games/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "pixel-art-fantasy-game-main-heroes/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "pixel-art-forest-platformer-tileset/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "pixel-art-magic-sprite-effects-and-icons-pack/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "pixel-art-monster-enemy-game-sprites/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "potion-icons-pixel-art/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "rpg-monster-sprites-pixel-art/License.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "treasure-icons-pixel-art/License.txt"
+      }
+    ],
+    "description_sources": [
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "10-magic-effects-pixel-art-pack/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "2d-pixel-art-evil-monster-sprites/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "animated-traps-and-obstacles-pixel-art/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "assassin-mage-viking-free-pixel-art-game-heroes/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "bosses-pixel-art-game-assets-pack/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "castle-platformer-pixel-art-tileset/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "dungeon-platformer-pixel-art-tileset-2/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "dungeon-platformer-pixel-art-tileset/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "fantasy-character-avatar-icons-pixel-art/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "fantasy-platformer-game-ui/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "fire-monster-game-sprites-pixel-art/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "food-icons-pixel-art/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "ingredient-icons-pixel-art/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "mountain-monsters-pixel-art-pack/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "mountain-platformer-pixel-art-tileset/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "pixel-art-characters-for-platformer-games/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "pixel-art-fantasy-game-main-heroes/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "pixel-art-forest-platformer-tileset/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "pixel-art-magic-sprite-effects-and-icons-pack/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "pixel-art-monster-enemy-game-sprites/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "potion-icons-pixel-art/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "rpg-monster-sprites-pixel-art/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-529554-fantasy-platformer-game-kit-pixel-art.zip",
+        "member": "treasure-icons-pixel-art/readme.txt"
+      }
+    ]
+  },
+  {
+    "id": "dbd20a7bd35ea7f0",
+    "source": "game kits/craftpix-net-754138-cooking-pizza-assets-idle-game-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-net-754138-cooking-pizza-assets-idle-game-kit",
+    "png_count": 312,
+    "bytes": 2925238,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-net-754138-cooking-pizza-assets-idle-game-kit.zip",
+        "member": "License.txt"
+      }
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "fec93ab6ada5c91a",
+    "source": "game kits/craftpix-net-814823-free-roguelike-shoot-em-up-pixel-art-game-kit.zip",
+    "output_prefix": "assets/game-kits/craftpix-net-814823-free-roguelike-shoot-em-up-pixel-art-game-kit",
+    "png_count": 326,
+    "bytes": 334542,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-net-814823-free-roguelike-shoot-em-up-pixel-art-game-kit.zip",
+        "member": "license.txt"
+      }
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "243cc58eaaf59f4b",
+    "source": "game kits/craftpix-net-869102-tower-defense-neighborhood-top-down-2d-asset-pack.zip",
+    "output_prefix": "assets/game-kits/craftpix-net-869102-tower-defense-neighborhood-top-down-2d-asset-pack",
+    "png_count": 1329,
+    "bytes": 13133435,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-net-869102-tower-defense-neighborhood-top-down-2d-asset-pack.zip",
+        "member": "License.txt"
+      }
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "0242e7bc4e9494f7",
+    "source": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+    "output_prefix": "assets/game-kits/craftpix-net-902388-rpg-platformer-game-assets",
+    "png_count": 3767,
+    "bytes": 358409789,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "1_Main_character/Dark_Elves/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Demon Archer/Archer_1/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Demon Archer/Archer_2/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Demon Archer/Archer_3/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Demons_of_Darkness/Demons_of_Darkness_1/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Demons_of_Darkness/Demons_of_Darkness_2/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Demons_of_Darkness/Demons_of_Darkness_3/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Devil/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Hell_Knight/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Magician_Demon/Magician_1/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Magician_Demon/Magician_2/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Magician_Demon/Magician_3/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Succubus/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "3_Shop/NPC/Magician_1/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "3_Shop/NPC/Magician_2/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "3_Shop/Staff/Poition/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "3_Shop/Staff/Swordsman Skill/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "3_Shop/Staff/Sword/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "4_Main_location/FREE MARKET CARTOON 2D GAME TILESET/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "5_Levels/DUNGEON CARTOON 2D PLATFORMER TILESET/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "5_Levels/DWARF MINES CARTOON 2D TILESET/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "5_Levels/INFERNO CARTOON 2D PLATFORMER TILESET/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "6_UI/TXT/license.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "license.txt"
+      }
+    ],
+    "description_sources": [
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "1_Main_character/Dark_Elves/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Demon Archer/Archer_1/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Demon Archer/Archer_2/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Demon Archer/Archer_3/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Demons_of_Darkness/Demons_of_Darkness_1/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Demons_of_Darkness/Demons_of_Darkness_2/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Demons_of_Darkness/Demons_of_Darkness_3/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Devil/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Hell_Knight/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Magician_Demon/Magician_1/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Magician_Demon/Magician_2/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Magician_Demon/Magician_3/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "2_Enemies/Succubus/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "3_Shop/NPC/Magician_1/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "3_Shop/NPC/Magician_2/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "3_Shop/Staff/Poition/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "3_Shop/Staff/Swordsman Skill/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "3_Shop/Staff/Sword/TXT/readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "4_Main_location/FREE MARKET CARTOON 2D GAME TILESET/TXT/Readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "5_Levels/DUNGEON CARTOON 2D PLATFORMER TILESET/TXT/Readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "5_Levels/DWARF MINES CARTOON 2D TILESET/TXT/Readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "5_Levels/INFERNO CARTOON 2D PLATFORMER TILESET/TXT/Readme.txt"
+      },
+      {
+        "archive": "game kits/craftpix-net-902388-rpg-platformer-game-assets.zip",
+        "member": "6_UI/TXT/readme.txt"
+      }
+    ]
+  },
+  {
+    "id": "c3c7623d58c23da0",
+    "source": "game kits/craftpix-net-924239-onet-game-kit-asset-pack.zip",
+    "output_prefix": "assets/game-kits/craftpix-net-924239-onet-game-kit-asset-pack",
+    "png_count": 90,
+    "bytes": 2716229,
+    "format": "zip/png",
+    "aliases": [],
+    "license_sources": [
+      {
+        "archive": "game kits/craftpix-net-924239-onet-game-kit-asset-pack.zip",
+        "member": "license.txt"
+      }
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "4127f952e71f9dd5",
+    "source": "platformer/Characters/craftpix-451189-magic-assets-pack-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-451189-magic-assets-pack-pixel-art",
+    "png_count": 64,
+    "bytes": 84845,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-451189-magic-assets-pack-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "2d7dd760e09b8a75",
+    "source": "platformer/Characters/craftpix-611156-ruin-bosses-pixel-art-character-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-611156-ruin-bosses-pixel-art-character-pack",
+    "png_count": 32,
+    "bytes": 60256,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-611156-ruin-bosses-pixel-art-character-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "42668d22ffa7ea9a",
+    "source": "platformer/Characters/craftpix-781105-underground-mine-character-spritesheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-781105-underground-mine-character-spritesheets-pixel-art",
+    "png_count": 36,
+    "bytes": 50773,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-781105-underground-mine-character-spritesheets-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "5d84bb5b26d5d2a2",
+    "source": "platformer/Characters/craftpix-781111-free-villagers-sprite-sheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-781111-free-villagers-sprite-sheets-pixel-art",
+    "png_count": 36,
+    "bytes": 47868,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-781111-free-villagers-sprite-sheets-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "b21787d8bddf8101",
+    "source": "platformer/Characters/craftpix-781167-animal-sprite-sheets-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-781167-animal-sprite-sheets-pixel-art-pack",
+    "png_count": 36,
+    "bytes": 50896,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-781167-animal-sprite-sheets-pixel-art-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "4f4f0e8137e681a2",
+    "source": "platformer/Characters/craftpix-781167-free-swamp-bosses-pixel-art-character-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-781167-free-swamp-bosses-pixel-art-character-pack",
+    "png_count": 35,
+    "bytes": 60452,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-781167-free-swamp-bosses-pixel-art-character-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "5965c3212b97d88e",
+    "source": "platformer/Characters/craftpix-781190-desert-bosses-pixel-art-character-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-781190-desert-bosses-pixel-art-character-pack",
+    "png_count": 33,
+    "bytes": 64018,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-781190-desert-bosses-pixel-art-character-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "37a5020918276eb3",
+    "source": "platformer/Characters/craftpix-781196-field-bosses-platformer-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-781196-field-bosses-platformer-pixel-art",
+    "png_count": 31,
+    "bytes": 56317,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-781196-field-bosses-platformer-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "d9e75cdcc9674ed2",
+    "source": "platformer/Characters/craftpix-781196-free-desert-enemy-sprite-sheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-781196-free-desert-enemy-sprite-sheets-pixel-art",
+    "png_count": 37,
+    "bytes": 51744,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-781196-free-desert-enemy-sprite-sheets-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "dc76c5dfed784145",
+    "source": "platformer/Characters/craftpix-781196-snow-enemy-character-sprites-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-781196-snow-enemy-character-sprites-pixel-art",
+    "png_count": 39,
+    "bytes": 53691,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-781196-snow-enemy-character-sprites-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "34a4d87efd24cfc6",
+    "source": "platformer/Characters/craftpix-781667-ruin-enemy-sprite-sheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-781667-ruin-enemy-sprite-sheets-pixel-art",
+    "png_count": 37,
+    "bytes": 50781,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-781667-ruin-enemy-sprite-sheets-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "f6d0e68b80ff05ba",
+    "source": "platformer/Characters/craftpix-781670-mine-bosses-game-character-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-781670-mine-bosses-game-character-pixel-art-pack",
+    "png_count": 33,
+    "bytes": 62275,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-781670-mine-bosses-game-character-pixel-art-pack/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "04b5bca5cb35f075",
+    "source": "platformer/Characters/craftpix-785613-cookery-game-assets-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-785613-cookery-game-assets-pixel-art-pack",
+    "png_count": 77,
+    "bytes": 90554,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-785613-cookery-game-assets-pixel-art-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "73a45fb7abca6009",
+    "source": "platformer/Characters/craftpix-891009-herbalism-game-assets-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-891009-herbalism-game-assets-pixel-art-pack",
+    "png_count": 53,
+    "bytes": 70929,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-891009-herbalism-game-assets-pixel-art-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "f92378494d92c76c",
+    "source": "platformer/Characters/craftpix-891165-mining-game-assets-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-891165-mining-game-assets-pixel-art-pack",
+    "png_count": 55,
+    "bytes": 71864,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-891165-mining-game-assets-pixel-art-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "380e387173d8281b",
+    "source": "platformer/Characters/craftpix-891176-animated-traps-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-891176-animated-traps-pixel-art-pack",
+    "png_count": 23,
+    "bytes": 33268,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-891176-animated-traps-pixel-art-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "400f20774f12f072",
+    "source": "platformer/Characters/craftpix-891178-swamp-enemies-sprite-sheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-891178-swamp-enemies-sprite-sheets-pixel-art",
+    "png_count": 37,
+    "bytes": 49151,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-891178-swamp-enemies-sprite-sheets-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "278dc144eb3d3ffb",
+    "source": "platformer/Characters/craftpix-891407-field-enemies-game-sprite-sheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-891407-field-enemies-game-sprite-sheets-pixel-art",
+    "png_count": 37,
+    "bytes": 51298,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-891407-field-enemies-game-sprite-sheets-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "f70fc1df6b1c0589",
+    "source": "platformer/Characters/craftpix-896711-snow-bosses-game-character-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-896711-snow-bosses-game-character-pixel-art-pack",
+    "png_count": 33,
+    "bytes": 66314,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-896711-snow-bosses-game-character-pixel-art-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "223d170e55ee1349",
+    "source": "platformer/Characters/craftpix-981000-blacksmith-craft-asset-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-981000-blacksmith-craft-asset-pixel-art-pack",
+    "png_count": 39,
+    "bytes": 54692,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-981000-blacksmith-craft-asset-pixel-art-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "d4b32e838ad99e74",
+    "source": "platformer/Characters/craftpix-net-113443-water-monsters-pixel-art-sprite-sheet-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-113443-water-monsters-pixel-art-sprite-sheet-pack",
+    "png_count": 27,
+    "bytes": 74268,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "1af65ee6fcab195c",
+    "source": "platformer/Characters/craftpix-net-123681-free-samurai-pixel-art-sprite-sheets",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-123681-free-samurai-pixel-art-sprite-sheets",
+    "png_count": 31,
+    "bytes": 108357,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "a8ebb82086cef005",
+    "source": "platformer/Characters/craftpix-net-126405-village-npc-pixel-art-character-sprite-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-126405-village-npc-pixel-art-character-sprite-pack",
+    "png_count": 14,
+    "bytes": 322549,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "83ba3f2dc0936710",
+    "source": "platformer/Characters/craftpix-net-127655-free-3-character-sprite-sheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-127655-free-3-character-sprite-sheets-pixel-art",
+    "png_count": 42,
+    "bytes": 68315,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-127655-free-3-character-sprite-sheets-pixel-art/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "e886daef924ca5b8",
+    "source": "platformer/Characters/craftpix-net-129884-pirate-invasion-game-assets-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-129884-pirate-invasion-game-assets-pixel-art-pack",
+    "png_count": 48,
+    "bytes": 71563,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-129884-pirate-invasion-game-assets-pixel-art-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "f31c6eaea2a96eec",
+    "source": "platformer/Characters/craftpix-net-131479-free-satyr-sprite-sheet-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-131479-free-satyr-sprite-sheet-pixel-art-pack",
+    "png_count": 18,
+    "bytes": 409966,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-131479-free-satyr-sprite-sheet-pixel-art-pack/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "a9f782c0ca9e6fc4",
+    "source": "platformer/Characters/craftpix-net-133065-demon-invasion-pixel-art-game-assets-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-133065-demon-invasion-pixel-art-game-assets-pack",
+    "png_count": 48,
+    "bytes": 83313,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-133065-demon-invasion-pixel-art-game-assets-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "5017037a6f172aab",
+    "source": "platformer/Characters/craftpix-net-170637-free-minotaur-sprite-sheet-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-170637-free-minotaur-sprite-sheet-pixel-art-pack",
+    "png_count": 15,
+    "bytes": 376553,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "67d8147c37413fee",
+    "source": "platformer/Characters/craftpix-net-200022-elf-king-and-queen-pixel-art-character-sprite-sheets",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-200022-elf-king-and-queen-pixel-art-character-sprite-sheets",
+    "png_count": 14,
+    "bytes": 316396,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "2d86b1e181e190d4",
+    "source": "platformer/Characters/craftpix-net-218292-anime-warrior-man-character-pixel-sprite-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-218292-anime-warrior-man-character-pixel-sprite-pack",
+    "png_count": 30,
+    "bytes": 699305,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "458006f891fa4c5f",
+    "source": "platformer/Characters/craftpix-net-227825-shinobi-sprites-pixel-art-pack-2",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-227825-shinobi-sprites-pixel-art-pack-2",
+    "png_count": 30,
+    "bytes": 737121,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "c3d8aba4d2a5d79d",
+    "source": "platformer/Characters/craftpix-net-239104-vampire-pixel-art-character-sprites",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-239104-vampire-pixel-art-character-sprites",
+    "png_count": 30,
+    "bytes": 675785,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "2d1c1b8990a336e9",
+    "source": "platformer/Characters/craftpix-net-242415-free-schoolgirls-anime-character-pixel-sprite-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-242415-free-schoolgirls-anime-character-pixel-sprite-pack",
+    "png_count": 16,
+    "bytes": 355278,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-242415-free-schoolgirls-anime-character-pixel-sprite-pack/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "e69f5f7f357fbfd7",
+    "source": "platformer/Characters/craftpix-net-248468-free-werewolf-sprite-sheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-248468-free-werewolf-sprite-sheets-pixel-art",
+    "png_count": 30,
+    "bytes": 845118,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "80571541c84a5b4b",
+    "source": "platformer/Characters/craftpix-net-254528-steampunk-game-assets-pack-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-254528-steampunk-game-assets-pack-pixel-art",
+    "png_count": 45,
+    "bytes": 77102,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-254528-steampunk-game-assets-pack-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "52bae6f439127a34",
+    "source": "platformer/Characters/craftpix-net-258377-free-fishing-game-assets-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-258377-free-fishing-game-assets-pixel-art-pack",
+    "png_count": 63,
+    "bytes": 85402,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-258377-free-fishing-game-assets-pixel-art-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "e24fd743c12142d0",
+    "source": "platformer/Characters/craftpix-net-277060-samurai-pixel-art-sprites-pack-2",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-277060-samurai-pixel-art-sprites-pack-2",
+    "png_count": 30,
+    "bytes": 727202,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "d401ac0bc1ecd8d2",
+    "source": "platformer/Characters/craftpix-net-280097-free-gorgon-pixel-art-character-sprite-sheets",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-280097-free-gorgon-pixel-art-character-sprite-sheets",
+    "png_count": 30,
+    "bytes": 810826,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "d025baa93d47ac38",
+    "source": "platformer/Characters/craftpix-net-282025-pet-pixel-art-character-sprite-sheets",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-282025-pet-pixel-art-character-sprite-sheets",
+    "png_count": 23,
+    "bytes": 479439,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "75656350057e861d",
+    "source": "platformer/Characters/craftpix-net-313262-pixel-dark-elf-queen-animated-sprite-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-313262-pixel-dark-elf-queen-animated-sprite-pack",
+    "png_count": 19,
+    "bytes": 437829,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "969ca3bd50249a01",
+    "source": "platformer/Characters/craftpix-net-316309-golem-character-sprite-sheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-316309-golem-character-sprite-sheets-pixel-art",
+    "png_count": 30,
+    "bytes": 753589,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "09dfcd7b14bd8dd4",
+    "source": "platformer/Characters/craftpix-net-317603-pyromancer-character-sprite-sheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-317603-pyromancer-character-sprite-sheets-pixel-art",
+    "png_count": 31,
+    "bytes": 714997,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "476ee358e8513e90",
+    "source": "platformer/Characters/craftpix-net-334253-alchemy-game-assets-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-334253-alchemy-game-assets-pixel-art-pack",
+    "png_count": 48,
+    "bytes": 59998,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-334253-alchemy-game-assets-pixel-art-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "d6b4e43fa68ab667",
+    "source": "platformer/Characters/craftpix-net-354227-anime-warrior-sprite-sheet-pixel-art-pack-2",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-354227-anime-warrior-sprite-sheet-pixel-art-pack-2",
+    "png_count": 30,
+    "bytes": 714083,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "6f6e789929f85cc8",
+    "source": "platformer/Characters/craftpix-net-407836-free-ninja-sprite-sheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-407836-free-ninja-sprite-sheets-pixel-art",
+    "png_count": 33,
+    "bytes": 760159,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "2b4b5ee7ce84d1dd",
+    "source": "platformer/Characters/craftpix-net-410674-3-character-sprite-sheets-additional-animation-set",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-410674-3-character-sprite-sheets-additional-animation-set",
+    "png_count": 45,
+    "bytes": 71437,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-410674-3-character-sprite-sheets-additional-animation-set/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "fde94b16d6d84271",
+    "source": "platformer/Characters/craftpix-net-417191-dark-elf-sprite-pixel-art-asset-pack-2",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-417191-dark-elf-sprite-pixel-art-asset-pack-2",
+    "png_count": 16,
+    "bytes": 494246,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "effa4a885336f85b",
+    "source": "platformer/Characters/craftpix-net-418630-free-swimming-characters-animation-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-418630-free-swimming-characters-animation-pixel-art",
+    "png_count": 36,
+    "bytes": 60446,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-418630-free-swimming-characters-animation-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "55c932510dd7e67b",
+    "source": "platformer/Characters/craftpix-net-453698-free-shinobi-sprites-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-453698-free-shinobi-sprites-pixel-art",
+    "png_count": 30,
+    "bytes": 659591,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "15a71eba28f678bf",
+    "source": "platformer/Characters/craftpix-net-462764-dwarf-2d-pixel-art-sprite-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-462764-dwarf-2d-pixel-art-sprite-pack",
+    "png_count": 30,
+    "bytes": 694084,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "ec4fe2f74c3f383d",
+    "source": "platformer/Characters/craftpix-net-470871-witch-pixel-character-sprite-sheets-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-470871-witch-pixel-character-sprite-sheets-pack",
+    "png_count": 32,
+    "bytes": 744343,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "37ba73d22aa8df44",
+    "source": "platformer/Characters/craftpix-net-473336-weather-effects-pixel-art-assets-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-473336-weather-effects-pixel-art-assets-pack",
+    "png_count": 34,
+    "bytes": 44912,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-473336-weather-effects-pixel-art-assets-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "52bd4b0bb4570d7f",
+    "source": "platformer/Characters/craftpix-net-476079-anime-demon-sprite-sheet-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-476079-anime-demon-sprite-sheet-pixel-art-pack",
+    "png_count": 22,
+    "bytes": 506334,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "b591dd7cc4550cd3",
+    "source": "platformer/Characters/craftpix-net-490434-bestial-anime-characters-pixel-art-sprite-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-490434-bestial-anime-characters-pixel-art-sprite-pack",
+    "png_count": 31,
+    "bytes": 723795,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "30d3a129f583e3f4",
+    "source": "platformer/Characters/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets",
+    "png_count": 34,
+    "bytes": 743062,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "35e4580eac384f30",
+    "source": "platformer/Characters/craftpix-net-514604-npc-elf-2d-pixel-art-character-sprite-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-514604-npc-elf-2d-pixel-art-character-sprite-pack",
+    "png_count": 15,
+    "bytes": 330236,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "d35bddfaf8a5a48c",
+    "source": "platformer/Characters/craftpix-net-519977-underwater-main-enemies-pixel-sprite-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-519977-underwater-main-enemies-pixel-sprite-pack",
+    "png_count": 31,
+    "bytes": 69200,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-519977-underwater-main-enemies-pixel-sprite-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "69e4094e2d52fe35",
+    "source": "platformer/Characters/craftpix-net-525872-schoolgirls-anime-character-pixel-sprite-pack-2",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-525872-schoolgirls-anime-character-pixel-sprite-pack-2",
+    "png_count": 15,
+    "bytes": 380096,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "f4c511652648ee94",
+    "source": "platformer/Characters/craftpix-net-527225-farming-pixel-art-game-assets-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-527225-farming-pixel-art-game-assets-pack",
+    "png_count": 48,
+    "bytes": 63869,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-527225-farming-pixel-art-game-assets-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "7f5163634557c245",
+    "source": "platformer/Characters/craftpix-net-529677-free-wizard-sprite-sheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-529677-free-wizard-sprite-sheets-pixel-art",
+    "png_count": 34,
+    "bytes": 793761,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "3cf686fade051029",
+    "source": "platformer/Characters/craftpix-net-536294-anime-schoolboys-pixel-art-character-sprite-sheet-pack-2",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-536294-anime-schoolboys-pixel-art-character-sprite-sheet-pack-2",
+    "png_count": 15,
+    "bytes": 368942,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "589ae76402e25a5c",
+    "source": "platformer/Characters/craftpix-net-546731-elf-warrior-sprite-sheet-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-546731-elf-warrior-sprite-sheet-pixel-art-pack",
+    "png_count": 16,
+    "bytes": 380522,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "8652bb32c347aac8",
+    "source": "platformer/Characters/craftpix-net-575373-hellhound-character-sprite-sheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-575373-hellhound-character-sprite-sheets-pixel-art",
+    "png_count": 30,
+    "bytes": 699930,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-575373-hellhound-character-sprite-sheets-pixel-art/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "48a515881b2c58cc",
+    "source": "platformer/Characters/craftpix-net-583537-amazon-woman-sprite-sheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-583537-amazon-woman-sprite-sheets-pixel-art",
+    "png_count": 31,
+    "bytes": 716972,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "b220ea8e5c7100e8",
+    "source": "platformer/Characters/craftpix-net-597304-fantasy-knight-sprite-sheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-597304-fantasy-knight-sprite-sheets-pixel-art",
+    "png_count": 36,
+    "bytes": 831459,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "e4700bac85889d57",
+    "source": "platformer/Characters/craftpix-net-605776-free-yokai-pixel-art-character-sprites",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-605776-free-yokai-pixel-art-character-sprites",
+    "png_count": 32,
+    "bytes": 830613,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "5b1dc2ce7ae1c355",
+    "source": "platformer/Characters/craftpix-net-632833-peasants-2d-pixel-art-sprite-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-632833-peasants-2d-pixel-art-sprite-pack",
+    "png_count": 19,
+    "bytes": 429550,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "7129ee22f1146330",
+    "source": "platformer/Characters/craftpix-net-660897-pirate-bay-bosses-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-660897-pirate-bay-bosses-pixel-art-pack",
+    "png_count": 38,
+    "bytes": 61610,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-660897-pirate-bay-bosses-pixel-art-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "51685f84a987b140",
+    "source": "platformer/Characters/craftpix-net-678687-dragon-pixel-art-character-sprite-sheets-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-678687-dragon-pixel-art-character-sprite-sheets-pack",
+    "png_count": 30,
+    "bytes": 1213238,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "ff50861cd67d30ff",
+    "source": "platformer/Characters/craftpix-net-681261-priest-pixel-art-character-sprite-sheets-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-681261-priest-pixel-art-character-sprite-sheets-pack",
+    "png_count": 15,
+    "bytes": 358127,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "09afe806eff6cff5",
+    "source": "platformer/Characters/craftpix-net-682319-schoolboys-anime-character-pixel-sprite-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-682319-schoolboys-anime-character-pixel-sprite-pack",
+    "png_count": 15,
+    "bytes": 325993,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "473373616ac29b36",
+    "source": "platformer/Characters/craftpix-net-723951-orc-character-sprite-sheets-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-723951-orc-character-sprite-sheets-pixel-art",
+    "png_count": 30,
+    "bytes": 731971,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "c54143b943f4cded",
+    "source": "platformer/Characters/craftpix-net-760946-free-underwater-enemies-pixel-art-character-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-760946-free-underwater-enemies-pixel-art-character-pack",
+    "png_count": 39,
+    "bytes": 60295,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-760946-free-underwater-enemies-pixel-art-character-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "4d3aefe293c600b7",
+    "source": "platformer/Characters/craftpix-net-793056-elf-warrior-avatar-icon-pixel-pack-for-dialogue",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-793056-elf-warrior-avatar-icon-pixel-pack-for-dialogue",
+    "png_count": 18,
+    "bytes": 411382,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "357d7079ca9d8a4d",
+    "source": "platformer/Characters/craftpix-net-800891-octopus-jellyfish-shark-and-turtle-free-sprite-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-800891-octopus-jellyfish-shark-and-turtle-free-sprite-pixel-art",
+    "png_count": 30,
+    "bytes": 44136,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-800891-octopus-jellyfish-shark-and-turtle-free-sprite-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "85803f28a35fb913",
+    "source": "platformer/Characters/craftpix-net-803217-free-knight-character-sprites-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-803217-free-knight-character-sprites-pixel-art",
+    "png_count": 42,
+    "bytes": 1447969,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-803217-free-knight-character-sprites-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "9aae95999e1f02c1",
+    "source": "platformer/Characters/craftpix-net-809571-mega-boss-for-pixel-platformer-character-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-809571-mega-boss-for-pixel-platformer-character-pack",
+    "png_count": 12,
+    "bytes": 181437,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-809571-mega-boss-for-pixel-platformer-character-pack/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "40a6f53d3c26f058",
+    "source": "platformer/Characters/craftpix-net-830108-king-and-queen-pixel-art-character-sprite-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-830108-king-and-queen-pixel-art-character-sprite-pack",
+    "png_count": 12,
+    "bytes": 282029,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "f4c0c60d641a8bc1",
+    "source": "platformer/Characters/craftpix-net-838634-demon-sprite-sheet-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-838634-demon-sprite-sheet-pixel-art-pack",
+    "png_count": 16,
+    "bytes": 357948,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "a81842d5f89c26db",
+    "source": "platformer/Characters/craftpix-net-842242-gladiator-sprite-sheets-pixel-art-set",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-842242-gladiator-sprite-sheets-pixel-art-set",
+    "png_count": 30,
+    "bytes": 729790,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "8b1443e3201f3abf",
+    "source": "platformer/Characters/craftpix-net-846444-dark-elf-sprite-sheet-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-846444-dark-elf-sprite-sheet-pixel-art-pack",
+    "png_count": 15,
+    "bytes": 356515,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-846444-dark-elf-sprite-sheet-pixel-art-pack/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "755f140f79054947",
+    "source": "platformer/Characters/craftpix-net-872297-free-ghost-pixel-art-sprite-sheets",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-872297-free-ghost-pixel-art-sprite-sheets",
+    "png_count": 32,
+    "bytes": 662091,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-872297-free-ghost-pixel-art-sprite-sheets/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "69c6c5aa6ef24c2c",
+    "source": "platformer/Characters/craftpix-net-902518-wizard-pixel-art-sprites-pack-2",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-902518-wizard-pixel-art-sprites-pack-2",
+    "png_count": 30,
+    "bytes": 680153,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "aaec15a56613a4e6",
+    "source": "platformer/Characters/craftpix-net-910318-engineering-game-assets-pack-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-910318-engineering-game-assets-pack-pixel-art",
+    "png_count": 51,
+    "bytes": 71807,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-910318-engineering-game-assets-pack-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "b6b079156ca8b219",
+    "source": "platformer/Characters/craftpix-net-929030-goblin-character-sprites-pixel-art",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-929030-goblin-character-sprites-pixel-art",
+    "png_count": 30,
+    "bytes": 641204,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "9686bae4e138ba38",
+    "source": "platformer/Characters/craftpix-net-935868-mimic-2d-pixel-character-sprite-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-935868-mimic-2d-pixel-character-sprite-pack",
+    "png_count": 18,
+    "bytes": 392455,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "9d444da8d2437fca",
+    "source": "platformer/Characters/craftpix-net-957123-free-skeleton-pixel-art-sprite-sheets",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-957123-free-skeleton-pixel-art-sprite-sheets",
+    "png_count": 31,
+    "bytes": 716940,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "cd150708b6e8e727",
+    "source": "platformer/Characters/craftpix-net-962681-pirate-pixel-art-sprites-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-962681-pirate-pixel-art-sprites-pack",
+    "png_count": 32,
+    "bytes": 48530,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-962681-pirate-pixel-art-sprites-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "bbcde32aa1e428a4",
+    "source": "platformer/Characters/craftpix-net-977637-new-year-adventure-game-asset-pixel-art-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-977637-new-year-adventure-game-asset-pixel-art-pack",
+    "png_count": 51,
+    "bytes": 69416,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-977637-new-year-adventure-game-asset-pixel-art-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "3b000842c171dacd",
+    "source": "platformer/Characters/craftpix-net-994667-girls-warrior-2d-pixel-art-sprite-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-994667-girls-warrior-2d-pixel-art-sprite-pack",
+    "png_count": 30,
+    "bytes": 727291,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-994667-girls-warrior-2d-pixel-art-sprite-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "2a3f3284873bf0c7",
+    "source": "platformer/Characters/craftpix-net-998362-rise-of-the-zombies-mummy-assets-pack",
+    "output_prefix": "assets/platformer/Characters/craftpix-net-998362-rise-of-the-zombies-mummy-assets-pack",
+    "png_count": 54,
+    "bytes": 73613,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Characters/craftpix-net-998362-rise-of-the-zombies-mummy-assets-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "5aa23c8691d14b9f",
+    "source": "platformer/Map/craftpix-net-280167-free-level-map-pixel-art-assets-pack",
+    "output_prefix": "assets/platformer/Map/craftpix-net-280167-free-level-map-pixel-art-assets-pack",
+    "png_count": 246,
+    "bytes": 278583,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Map/craftpix-net-280167-free-level-map-pixel-art-assets-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "6cd496668fa72847",
+    "source": "platformer/Map/craftpix-net-715382-level-map-pixel-art-assets-pack-2",
+    "output_prefix": "assets/platformer/Map/craftpix-net-715382-level-map-pixel-art-assets-pack-2",
+    "png_count": 252,
+    "bytes": 302460,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/Map/craftpix-net-715382-level-map-pixel-art-assets-pack-2/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "aace90231fa376cd",
+    "source": "platformer/UI/craftpix-net-775352-game-user-interface-pixel-art",
+    "output_prefix": "assets/platformer/UI/craftpix-net-775352-game-user-interface-pixel-art",
+    "png_count": 714,
+    "bytes": 789737,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "platformer/UI/craftpix-net-775352-game-user-interface-pixel-art/License.txt"
+    ],
+    "description_sources": [],
+    "content_duplicate_of": [
+      "UI/craftpix-net-775352-game-user-interface-pixel-art"
+    ]
+  },
+  {
+    "id": "3d4be030b3b973fd",
+    "source": "rpg/2DGameObjects/craftpix-net-106469-top-down-crystals-pixel-art",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-106469-top-down-crystals-pixel-art",
+    "png_count": 164,
+    "bytes": 525625,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/crystals"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-106469-top-down-crystals-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-106469-top-down-crystals-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "99c6d2dfb083a384",
+    "source": "rpg/2DGameObjects/craftpix-net-141354-free-top-down-bushes-pixel-art",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-141354-free-top-down-bushes-pixel-art",
+    "png_count": 164,
+    "bytes": 479849,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/bushes"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-141354-free-top-down-bushes-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-141354-free-top-down-bushes-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "73246fed6ec94310",
+    "source": "rpg/2DGameObjects/craftpix-net-200380-free-pixel-art-plants-for-farm",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-200380-free-pixel-art-plants-for-farm",
+    "png_count": 2,
+    "bytes": 93101,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/plants-farm"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-200380-free-pixel-art-plants-for-farm/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "132b0253764df5ff",
+    "source": "rpg/2DGameObjects/craftpix-net-218281-free-pixel-art-dungeon-objects-asset-pack",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-218281-free-pixel-art-dungeon-objects-asset-pack",
+    "png_count": 13,
+    "bytes": 294992,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/dungeon-objects"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-218281-free-pixel-art-dungeon-objects-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-218281-free-pixel-art-dungeon-objects-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "9ad75736d85b7a17",
+    "source": "rpg/2DGameObjects/craftpix-net-232567-top-down-winter-objects-pixel-art",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-232567-top-down-winter-objects-pixel-art",
+    "png_count": 107,
+    "bytes": 699703,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/winter-objects"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-232567-top-down-winter-objects-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-232567-top-down-winter-objects-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "69188be332fb58a8",
+    "source": "rpg/2DGameObjects/craftpix-net-266622-free-top-down-pixel-art-cave-objects",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-266622-free-top-down-pixel-art-cave-objects",
+    "png_count": 102,
+    "bytes": 618513,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/cave-objects"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-266622-free-top-down-pixel-art-cave-objects/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-266622-free-top-down-pixel-art-cave-objects/readme.txt"
+    ]
+  },
+  {
+    "id": "d2e19afdbeb37452",
+    "source": "rpg/2DGameObjects/craftpix-net-357155-glade-objects-top-down-pixel-art",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-357155-glade-objects-top-down-pixel-art",
+    "png_count": 104,
+    "bytes": 605675,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/glade-objects"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-357155-glade-objects-top-down-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-357155-glade-objects-top-down-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "0ef68962831af545",
+    "source": "rpg/2DGameObjects/craftpix-net-359734-magic-objects-and-icons-pixel-art-pack",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-359734-magic-objects-and-icons-pixel-art-pack",
+    "png_count": 8,
+    "bytes": 344944,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/magic-objects-icons"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-359734-magic-objects-and-icons-pixel-art-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-359734-magic-objects-and-icons-pixel-art-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "733e839f736f254e",
+    "source": "rpg/2DGameObjects/craftpix-net-385863-free-top-down-trees-pixel-art",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-385863-free-top-down-trees-pixel-art",
+    "png_count": 164,
+    "bytes": 1021374,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/trees"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-385863-free-top-down-trees-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-385863-free-top-down-trees-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "180ce0f3cc38cbe7",
+    "source": "rpg/2DGameObjects/craftpix-net-505052-free-forest-objects-top-down-pixel-art",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-505052-free-forest-objects-top-down-pixel-art",
+    "png_count": 81,
+    "bytes": 600824,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/forest-objects"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-505052-free-forest-objects-top-down-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-505052-free-forest-objects-top-down-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "ca20c533491e7e39",
+    "source": "rpg/2DGameObjects/craftpix-net-522456-treasure-32x32-objects-and-icons-pixel-pack",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-522456-treasure-32x32-objects-and-icons-pixel-pack",
+    "png_count": 4,
+    "bytes": 115212,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/treasure-32x32-objects-icons"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-522456-treasure-32x32-objects-and-icons-pixel-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-522456-treasure-32x32-objects-and-icons-pixel-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "f6477e1e8a025292",
+    "source": "rpg/2DGameObjects/craftpix-net-527955-desert-objects-top-down-pixel-art",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-527955-desert-objects-top-down-pixel-art",
+    "png_count": 86,
+    "bytes": 556230,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/desert-objects"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-527955-desert-objects-top-down-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-527955-desert-objects-top-down-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "85440cc60a4a0370",
+    "source": "rpg/2DGameObjects/craftpix-net-548007-glowing-cave-objects-pixel-art-asset-pack",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-548007-glowing-cave-objects-pixel-art-asset-pack",
+    "png_count": 46,
+    "bytes": 308380,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/glowing-cave-objects"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-548007-glowing-cave-objects-pixel-art-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-548007-glowing-cave-objects-pixel-art-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "fecc0f7a7d7ad60a",
+    "source": "rpg/2DGameObjects/craftpix-net-639143-free-rocky-area-objects-pixel-art",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-639143-free-rocky-area-objects-pixel-art",
+    "png_count": 83,
+    "bytes": 480808,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/rocky-area-objects"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-639143-free-rocky-area-objects-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-639143-free-rocky-area-objects-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "8e9fd283fb8c8de3",
+    "source": "rpg/2DGameObjects/craftpix-net-646446-swamp-objects-top-down-pixel-art",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-646446-swamp-objects-top-down-pixel-art",
+    "png_count": 98,
+    "bytes": 678467,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/swamp-objects"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-646446-swamp-objects-top-down-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-646446-swamp-objects-top-down-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "8c93b77fd7a2306f",
+    "source": "rpg/2DGameObjects/craftpix-net-665895-free-pixel-dungeon-props-and-objects-asset-pack",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-665895-free-pixel-dungeon-props-and-objects-asset-pack",
+    "png_count": 20,
+    "bytes": 239162,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/dungeon-props-objects"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-665895-free-pixel-dungeon-props-and-objects-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-665895-free-pixel-dungeon-props-and-objects-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "2b63cbcdc53f732e",
+    "source": "rpg/2DGameObjects/craftpix-net-668008-free-bridges-top-down-pixel-art-asset-pack",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-668008-free-bridges-top-down-pixel-art-asset-pack",
+    "png_count": 14,
+    "bytes": 272848,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/bridges"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-668008-free-bridges-top-down-pixel-art-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-668008-free-bridges-top-down-pixel-art-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "4dc7e48bb5a980bc",
+    "source": "rpg/2DGameObjects/craftpix-net-691169-cursed-land-objects-pixel-art-for-rpg-game",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-691169-cursed-land-objects-pixel-art-for-rpg-game",
+    "png_count": 85,
+    "bytes": 562242,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/cursed-land-objects-rpg"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-691169-cursed-land-objects-pixel-art-for-rpg-game/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-691169-cursed-land-objects-pixel-art-for-rpg-game/readme.txt"
+    ]
+  },
+  {
+    "id": "77e8aa32fe1439cc",
+    "source": "rpg/2DGameObjects/craftpix-net-694865-free-top-down-seabed-objects-pixel-art",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-694865-free-top-down-seabed-objects-pixel-art",
+    "png_count": 241,
+    "bytes": 1054108,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/seabed-objects"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-694865-free-top-down-seabed-objects-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-694865-free-top-down-seabed-objects-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "a28989543f57dd96",
+    "source": "rpg/2DGameObjects/craftpix-net-790988-the-top-down-undead-land-objects-pixel-art",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-790988-the-top-down-undead-land-objects-pixel-art",
+    "png_count": 139,
+    "bytes": 620252,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/the-undead-land-objects"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-790988-the-top-down-undead-land-objects-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-790988-the-top-down-undead-land-objects-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "a3b8534b675e9ad9",
+    "source": "rpg/2DGameObjects/craftpix-net-934618-free-top-down-ruins-pixel-art",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-934618-free-top-down-ruins-pixel-art",
+    "png_count": 164,
+    "bytes": 1000861,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/ruins"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-934618-free-top-down-ruins-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-934618-free-top-down-ruins-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "18d6bb6d2c0d3960",
+    "source": "rpg/2DGameObjects/craftpix-net-974061-free-rocks-and-stones-top-down-pixel-art",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-974061-free-rocks-and-stones-top-down-pixel-art",
+    "png_count": 164,
+    "bytes": 501606,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/rocks-stones"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-974061-free-rocks-and-stones-top-down-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-974061-free-rocks-and-stones-top-down-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "e373a89f94dc5ee0",
+    "source": "rpg/2DGameObjects/craftpix-net-986610-pixel-art-resources-and-icons-basic-pack",
+    "output_prefix": "assets/rpg/2DGameObjects/craftpix-net-986610-pixel-art-resources-and-icons-basic-pack",
+    "png_count": 2,
+    "bytes": 100325,
+    "format": "png",
+    "aliases": [
+      "PNG/2DGameObjects/resources-icons-basic"
+    ],
+    "license_sources": [
+      "rpg/2DGameObjects/craftpix-net-986610-pixel-art-resources-and-icons-basic-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/2DGameObjects/craftpix-net-986610-pixel-art-resources-and-icons-basic-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "8a3ae69b0977a698",
+    "source": "rpg/Characters/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc",
+    "output_prefix": "assets/rpg/Characters/Tiny RPG Character Asset Pack v1.03 -Free Soldier&Orc",
+    "png_count": 47,
+    "bytes": 132652,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "e26ae46bd8b5efc0",
+    "source": "rpg/Characters/craftpix-net-180537-free-swordsman-1-3-level-pixel-top-down-sprite-character",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-180537-free-swordsman-1-3-level-pixel-top-down-sprite-character",
+    "png_count": 363,
+    "bytes": 2375218,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/swordsman-1-3-level-character"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-180537-free-swordsman-1-3-level-pixel-top-down-sprite-character/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-180537-free-swordsman-1-3-level-pixel-top-down-sprite-character/readme.txt"
+    ]
+  },
+  {
+    "id": "0d6bec903e6732db",
+    "source": "rpg/Characters/craftpix-net-181940-top-down-village-farm-animals-sprite-sheet",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-181940-top-down-village-farm-animals-sprite-sheet",
+    "png_count": 50,
+    "bytes": 438170,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/village-farm-animals"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-181940-top-down-village-farm-animals-sprite-sheet/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-181940-top-down-village-farm-animals-sprite-sheet/readme.txt"
+    ]
+  },
+  {
+    "id": "3da2f2fc809fa301",
+    "source": "rpg/Characters/craftpix-net-208004-free-vampire-4-direction-pixel-character-sprite-pack",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-208004-free-vampire-4-direction-pixel-character-sprite-pack",
+    "png_count": 194,
+    "bytes": 2248104,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/vampire-4-direction-character"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-208004-free-vampire-4-direction-pixel-character-sprite-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-208004-free-vampire-4-direction-pixel-character-sprite-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "7d79db0b7d9df727",
+    "source": "rpg/Characters/craftpix-net-213727-top-down-cute-farm-animals-pixel-sprite",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-213727-top-down-cute-farm-animals-pixel-sprite",
+    "png_count": 48,
+    "bytes": 309747,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/cute-farm-animals"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-213727-top-down-cute-farm-animals-pixel-sprite/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-213727-top-down-cute-farm-animals-pixel-sprite/readme.txt"
+    ]
+  },
+  {
+    "id": "e201e81ef7d1ef7b",
+    "source": "rpg/Characters/craftpix-net-291971-free-top-down-animals-farm-pixel-art-sprites",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-291971-free-top-down-animals-farm-pixel-art-sprites",
+    "png_count": 48,
+    "bytes": 317574,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/animals-farm"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-291971-free-top-down-animals-farm-pixel-art-sprites/license.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-291971-free-top-down-animals-farm-pixel-art-sprites/readme.txt"
+    ]
+  },
+  {
+    "id": "30e5a1e51cafba80",
+    "source": "rpg/Characters/craftpix-net-299679-swordsman-7-9-level-pixel-top-down-sprite-character-pack",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-299679-swordsman-7-9-level-pixel-top-down-sprite-character-pack",
+    "png_count": 471,
+    "bytes": 4934151,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/swordsman-7-9-level-character"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-299679-swordsman-7-9-level-pixel-top-down-sprite-character-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-299679-swordsman-7-9-level-pixel-top-down-sprite-character-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "4cb4602b576b06af",
+    "source": "rpg/Characters/craftpix-net-363992-free-top-down-orc-game-character-pixel-art",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-363992-free-top-down-orc-game-character-pixel-art",
+    "png_count": 335,
+    "bytes": 3177275,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/orc-character"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-363992-free-top-down-orc-game-character-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-363992-free-top-down-orc-game-character-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "515f2dc7136f3d7a",
+    "source": "rpg/Characters/craftpix-net-393827-top-down-pixel-gnolls-character-pack",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-393827-top-down-pixel-gnolls-character-pack",
+    "png_count": 187,
+    "bytes": 2339815,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/gnolls-character"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-393827-top-down-pixel-gnolls-character-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-393827-top-down-pixel-gnolls-character-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "388f1fadccc02de4",
+    "source": "rpg/Characters/craftpix-net-404608-beholder-monsters-top-down-pixel-art-sprites",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-404608-beholder-monsters-top-down-pixel-art-sprites",
+    "png_count": 154,
+    "bytes": 2967157,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/beholder-monsters"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-404608-beholder-monsters-top-down-pixel-art-sprites/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-404608-beholder-monsters-top-down-pixel-art-sprites/readme.txt"
+    ]
+  },
+  {
+    "id": "95f705f538a217e3",
+    "source": "rpg/Characters/craftpix-net-415491-giant-rat-4-direction-pixel-character-sprite-pack",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-415491-giant-rat-4-direction-pixel-character-sprite-pack",
+    "png_count": 188,
+    "bytes": 2222203,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/giant-rat-4-direction-character"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-415491-giant-rat-4-direction-pixel-character-sprite-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-415491-giant-rat-4-direction-pixel-character-sprite-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "6cdcbe0fd307918f",
+    "source": "rpg/Characters/craftpix-net-419402-free-base-4-direction-female-character-pixel-art",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-419402-free-base-4-direction-female-character-pixel-art",
+    "png_count": 157,
+    "bytes": 812810,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/base-4-direction-female-character"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-419402-free-base-4-direction-female-character-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-419402-free-base-4-direction-female-character-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "b65221b0384f0fbc",
+    "source": "rpg/Characters/craftpix-net-463118-demons-4-direction-pixel-character-sprite-pack",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-463118-demons-4-direction-pixel-character-sprite-pack",
+    "png_count": 220,
+    "bytes": 3387328,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/demons-4-direction-character"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-463118-demons-4-direction-pixel-character-sprite-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-463118-demons-4-direction-pixel-character-sprite-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "6b8aa0d540ef2da7",
+    "source": "rpg/Characters/craftpix-net-500988-imp-mobs-pixel-art-character-sprite-pack",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-500988-imp-mobs-pixel-art-character-sprite-pack",
+    "png_count": 200,
+    "bytes": 1850839,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/imp-mobs-character"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-500988-imp-mobs-pixel-art-character-sprite-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-500988-imp-mobs-pixel-art-character-sprite-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "bbc07e7ae29f6ee3",
+    "source": "rpg/Characters/craftpix-net-543463-top-down-pixel-lich-character-sprites",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-543463-top-down-pixel-lich-character-sprites",
+    "png_count": 150,
+    "bytes": 1872446,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/lich-character"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-543463-top-down-pixel-lich-character-sprites/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-543463-top-down-pixel-lich-character-sprites/readme.txt"
+    ]
+  },
+  {
+    "id": "39248b880bcfb86f",
+    "source": "rpg/Characters/craftpix-net-555940-free-base-4-direction-male-character-pixel-art",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-555940-free-base-4-direction-male-character-pixel-art",
+    "png_count": 174,
+    "bytes": 1150613,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/base-4-direction-male-character"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-555940-free-base-4-direction-male-character-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-555940-free-base-4-direction-male-character-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "86aa5ee8728a9f48",
+    "source": "rpg/Characters/craftpix-net-587497-pixel-art-market-square-rpg-shop-and-npc-assets-pack",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-587497-pixel-art-market-square-rpg-shop-and-npc-assets-pack",
+    "png_count": 94,
+    "bytes": 682920,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/market-square-rpg-shop-npc"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-587497-pixel-art-market-square-rpg-shop-and-npc-assets-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-587497-pixel-art-market-square-rpg-shop-and-npc-assets-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "e573e87b1aa40169",
+    "source": "rpg/Characters/craftpix-net-625807-golem-pixel-art-top-down-sprite-pack",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-625807-golem-pixel-art-top-down-sprite-pack",
+    "png_count": 167,
+    "bytes": 3411882,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/golem"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-625807-golem-pixel-art-top-down-sprite-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-625807-golem-pixel-art-top-down-sprite-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "d577788019349d05",
+    "source": "rpg/Characters/craftpix-net-710530-goblin-pixel-art-character-sprite-pack",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-710530-goblin-pixel-art-character-sprite-pack",
+    "png_count": 326,
+    "bytes": 1913341,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/goblin-character"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-710530-goblin-pixel-art-character-sprite-pack/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "a2d3f034bed48726",
+    "source": "rpg/Characters/craftpix-net-788364-free-slime-mobs-pixel-art-top-down-sprite-pack",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-788364-free-slime-mobs-pixel-art-top-down-sprite-pack",
+    "png_count": 158,
+    "bytes": 1591642,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/slime-mobs"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-788364-free-slime-mobs-pixel-art-top-down-sprite-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-788364-free-slime-mobs-pixel-art-top-down-sprite-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "e7a39d974dc88d76",
+    "source": "rpg/Characters/craftpix-net-827305-slime-boss-pixel-art-2d-sprite-for-roguelike-games",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-827305-slime-boss-pixel-art-2d-sprite-for-roguelike-games",
+    "png_count": 197,
+    "bytes": 3645602,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/slime-boss-roguelike"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-827305-slime-boss-pixel-art-2d-sprite-for-roguelike-games/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-827305-slime-boss-pixel-art-2d-sprite-for-roguelike-games/readme.txt"
+    ]
+  },
+  {
+    "id": "9069d90272c7b56a",
+    "source": "rpg/Characters/craftpix-net-870078-top-down-pixel-skeletons-character-sprite-pack",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-870078-top-down-pixel-skeletons-character-sprite-pack",
+    "png_count": 214,
+    "bytes": 1291969,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/skeletons-character"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-870078-top-down-pixel-skeletons-character-sprite-pack/license.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-870078-top-down-pixel-skeletons-character-sprite-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "cb14c2424b45102c",
+    "source": "rpg/Characters/craftpix-net-900504-lizardmen-pixel-art-character-sprite-pack",
+    "output_prefix": "assets/rpg/Characters/craftpix-net-900504-lizardmen-pixel-art-character-sprite-pack",
+    "png_count": 224,
+    "bytes": 2085359,
+    "format": "png",
+    "aliases": [
+      "PNG/Characters/lizardmen-character"
+    ],
+    "license_sources": [
+      "rpg/Characters/craftpix-net-900504-lizardmen-pixel-art-character-sprite-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Characters/craftpix-net-900504-lizardmen-pixel-art-character-sprite-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "d131be4ac85a7b27",
+    "source": "rpg/GameUI/craftpix-net-137102-adventure-fantasy-book-pixel-art",
+    "output_prefix": "assets/rpg/GameUI/craftpix-net-137102-adventure-fantasy-book-pixel-art",
+    "png_count": 42,
+    "bytes": 872970,
+    "format": "png",
+    "aliases": [
+      "PNG/GameUI/adventure-fantasy-book"
+    ],
+    "license_sources": [
+      "rpg/GameUI/craftpix-net-137102-adventure-fantasy-book-pixel-art/license.txt"
+    ],
+    "description_sources": [
+      "rpg/GameUI/craftpix-net-137102-adventure-fantasy-book-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "1797dd39167d10cb",
+    "source": "rpg/GameUI/craftpix-net-160005-free-ruined-temple-top-down-location-pixel-art",
+    "output_prefix": "assets/rpg/GameUI/craftpix-net-160005-free-ruined-temple-top-down-location-pixel-art",
+    "png_count": 162,
+    "bytes": 1350315,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/GameUI/craftpix-net-160005-free-ruined-temple-top-down-location-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/GameUI/craftpix-net-160005-free-ruined-temple-top-down-location-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "57bb959447afc1fd",
+    "source": "rpg/GameUI/craftpix-net-214510-fantasy-keyboard-and-mouse-free-pixel-art-asset-pack",
+    "output_prefix": "assets/rpg/GameUI/craftpix-net-214510-fantasy-keyboard-and-mouse-free-pixel-art-asset-pack",
+    "png_count": 44,
+    "bytes": 525358,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/GameUI/craftpix-net-214510-fantasy-keyboard-and-mouse-free-pixel-art-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/GameUI/craftpix-net-214510-fantasy-keyboard-and-mouse-free-pixel-art-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "93209f70008c4a2a",
+    "source": "rpg/GameUI/craftpix-net-255216-free-basic-pixel-art-ui-for-rpg",
+    "output_prefix": "assets/rpg/GameUI/craftpix-net-255216-free-basic-pixel-art-ui-for-rpg",
+    "png_count": 19,
+    "bytes": 177033,
+    "format": "png",
+    "aliases": [
+      "PNG/GameUI/basic-ui-rpg"
+    ],
+    "license_sources": [
+      "rpg/GameUI/craftpix-net-255216-free-basic-pixel-art-ui-for-rpg/License.txt"
+    ],
+    "description_sources": [
+      "rpg/GameUI/craftpix-net-255216-free-basic-pixel-art-ui-for-rpg/readme.txt"
+    ],
+    "content_duplicate_of": [
+      "UI/craftpix-net-255216-free-basic-pixel-art-ui-for-rpg"
+    ]
+  },
+  {
+    "id": "2ca03da3bd53881a",
+    "source": "rpg/GameUI/craftpix-net-573594-hp-mana-stamina-and-scroll-bar-pixel-rpg-asset-pack",
+    "output_prefix": "assets/rpg/GameUI/craftpix-net-573594-hp-mana-stamina-and-scroll-bar-pixel-rpg-asset-pack",
+    "png_count": 3,
+    "bytes": 76920,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/GameUI/craftpix-net-573594-hp-mana-stamina-and-scroll-bar-pixel-rpg-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/GameUI/craftpix-net-573594-hp-mana-stamina-and-scroll-bar-pixel-rpg-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "3f3dc4c4bdfdc1c1",
+    "source": "rpg/GameUI/craftpix-net-574220-free-path-and-road-top-down-pixel-tileset",
+    "output_prefix": "assets/rpg/GameUI/craftpix-net-574220-free-path-and-road-top-down-pixel-tileset",
+    "png_count": 16,
+    "bytes": 231009,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/GameUI/craftpix-net-574220-free-path-and-road-top-down-pixel-tileset/license.txt"
+    ],
+    "description_sources": [
+      "rpg/GameUI/craftpix-net-574220-free-path-and-road-top-down-pixel-tileset/readme.txt"
+    ]
+  },
+  {
+    "id": "ecb43feb278b81a6",
+    "source": "rpg/GameUI/craftpix-net-726651-keyboard-and-mouse-free-pixel-art-asset-pack",
+    "output_prefix": "assets/rpg/GameUI/craftpix-net-726651-keyboard-and-mouse-free-pixel-art-asset-pack",
+    "png_count": 20,
+    "bytes": 204970,
+    "format": "png",
+    "aliases": [
+      "PNG/GameUI/keyboard-mouse"
+    ],
+    "license_sources": [
+      "rpg/GameUI/craftpix-net-726651-keyboard-and-mouse-free-pixel-art-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/GameUI/craftpix-net-726651-keyboard-and-mouse-free-pixel-art-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "7d688b4d7d627d0e",
+    "source": "rpg/GameUI/craftpix-net-767317-bestiary-book-pixel-art-asset-pack",
+    "output_prefix": "assets/rpg/GameUI/craftpix-net-767317-bestiary-book-pixel-art-asset-pack",
+    "png_count": 37,
+    "bytes": 980889,
+    "format": "png",
+    "aliases": [
+      "PNG/GameUI/bestiary-book"
+    ],
+    "license_sources": [
+      "rpg/GameUI/craftpix-net-767317-bestiary-book-pixel-art-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/GameUI/craftpix-net-767317-bestiary-book-pixel-art-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "68fc8492f7a63df1",
+    "source": "rpg/GameUI/craftpix-net-809047-free-animated-magic-book-pixel-art-asset-pack",
+    "output_prefix": "assets/rpg/GameUI/craftpix-net-809047-free-animated-magic-book-pixel-art-asset-pack",
+    "png_count": 75,
+    "bytes": 641138,
+    "format": "png",
+    "aliases": [
+      "PNG/GameUI/animated-magic-book"
+    ],
+    "license_sources": [
+      "rpg/GameUI/craftpix-net-809047-free-animated-magic-book-pixel-art-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/GameUI/craftpix-net-809047-free-animated-magic-book-pixel-art-asset-pack/readme.txt"
+    ],
+    "content_duplicate_of": [
+      "UI/craftpix-net-809047-free-animated-magic-book-pixel-art-asset-pack"
+    ]
+  },
+  {
+    "id": "0e0c4d32b0570d85",
+    "source": "rpg/GameUI/craftpix-net-949680-gamepads-and-controllers-free-pixel-art-asset-pack",
+    "output_prefix": "assets/rpg/GameUI/craftpix-net-949680-gamepads-and-controllers-free-pixel-art-asset-pack",
+    "png_count": 40,
+    "bytes": 388904,
+    "format": "png",
+    "aliases": [
+      "PNG/GameUI/gamepads-controllers"
+    ],
+    "license_sources": [
+      "rpg/GameUI/craftpix-net-949680-gamepads-and-controllers-free-pixel-art-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/GameUI/craftpix-net-949680-gamepads-and-controllers-free-pixel-art-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "a9d3b502e5c7fea9",
+    "source": "rpg/Icons/中世纪家居物品",
+    "output_prefix": "assets/rpg/Icons/中世纪家居物品",
+    "png_count": 101,
+    "bytes": 144088,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/中世纪家居物品/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "1d03939a27064f2f",
+    "source": "rpg/Icons/中世纪服装",
+    "output_prefix": "assets/rpg/Icons/中世纪服装",
+    "png_count": 100,
+    "bytes": 124711,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/中世纪服装/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "c8caf557180f3600",
+    "source": "rpg/Icons/中世纪武器",
+    "output_prefix": "assets/rpg/Icons/中世纪武器",
+    "png_count": 100,
+    "bytes": 120483,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/中世纪武器/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "331f639f903b1748",
+    "source": "rpg/Icons/中世纪角色头像",
+    "output_prefix": "assets/rpg/Icons/中世纪角色头像",
+    "png_count": 25,
+    "bytes": 24776,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/中世纪角色头像/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "4860cc0c672cf354",
+    "source": "rpg/Icons/中世纪钓鱼",
+    "output_prefix": "assets/rpg/Icons/中世纪钓鱼",
+    "png_count": 101,
+    "bytes": 159490,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/中世纪钓鱼/license.txt"
+    ],
+    "description_sources": [
+      "rpg/Icons/中世纪钓鱼/ReadMe.txt"
+    ]
+  },
+  {
+    "id": "fd56678880ea1c3b",
+    "source": "rpg/Icons/乐器",
+    "output_prefix": "assets/rpg/Icons/乐器",
+    "png_count": 101,
+    "bytes": 142836,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/乐器/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "c7a5005b0410cad5",
+    "source": "rpg/Icons/圣骑士与死亡骑士技能",
+    "output_prefix": "assets/rpg/Icons/圣骑士与死亡骑士技能",
+    "png_count": 102,
+    "bytes": 140034,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/圣骑士与死亡骑士技能/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "304f9db6a970c5af",
+    "source": "rpg/Icons/地术师与气术师技能",
+    "output_prefix": "assets/rpg/Icons/地术师与气术师技能",
+    "png_count": 101,
+    "bytes": 132122,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/地术师与气术师技能/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "cf1fb2196e74c7f7",
+    "source": "rpg/Icons/基础界面",
+    "output_prefix": "assets/rpg/Icons/基础界面",
+    "png_count": 258,
+    "bytes": 246086,
+    "format": "png",
+    "aliases": [
+      "PNG/Icons/basic-icons-16x16-gui"
+    ],
+    "license_sources": [
+      "rpg/Icons/基础界面/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Icons/基础界面/readme.txt"
+    ]
+  },
+  {
+    "id": "da4a1ec9dbb69538",
+    "source": "rpg/Icons/增益减益",
+    "output_prefix": "assets/rpg/Icons/增益减益",
+    "png_count": 122,
+    "bytes": 225965,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/增益减益/license.txt"
+    ],
+    "description_sources": [
+      "rpg/Icons/增益减益/ReadMe.txt"
+    ]
+  },
+  {
+    "id": "23a9e5bd88d54905",
+    "source": "rpg/Icons/奇幻增益减益",
+    "output_prefix": "assets/rpg/Icons/奇幻增益减益",
+    "png_count": 122,
+    "bytes": 151369,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/奇幻增益减益/license.txt"
+    ],
+    "description_sources": [
+      "rpg/Icons/奇幻增益减益/ReadMe.txt"
+    ]
+  },
+  {
+    "id": "02bec97c293c0355",
+    "source": "rpg/Icons/工程师与灵能者技能",
+    "output_prefix": "assets/rpg/Icons/工程师与灵能者技能",
+    "png_count": 102,
+    "bytes": 136473,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/工程师与灵能者技能/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "09079952a3ec9bf4",
+    "source": "rpg/Icons/戒指耳环与护符",
+    "output_prefix": "assets/rpg/Icons/戒指耳环与护符",
+    "png_count": 100,
+    "bytes": 129556,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/戒指耳环与护符/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "5cc33759d19b075d",
+    "source": "rpg/Icons/护甲-1",
+    "output_prefix": "assets/rpg/Icons/护甲-1",
+    "png_count": 100,
+    "bytes": 124468,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/护甲-1/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "68c48f38b115e64f",
+    "source": "rpg/Icons/护甲-2",
+    "output_prefix": "assets/rpg/Icons/护甲-2",
+    "png_count": 100,
+    "bytes": 124647,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/护甲-2/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "12388462ca6fc7f8",
+    "source": "rpg/Icons/护甲-6",
+    "output_prefix": "assets/rpg/Icons/护甲-6",
+    "png_count": 100,
+    "bytes": 127741,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/护甲-6/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "65c73581e76b8ceb",
+    "source": "rpg/Icons/护甲与武器",
+    "output_prefix": "assets/rpg/Icons/护甲与武器",
+    "png_count": 4,
+    "bytes": 143139,
+    "format": "png",
+    "aliases": [
+      "PNG/Icons/armor-weapons-rpg-icons"
+    ],
+    "license_sources": [
+      "rpg/Icons/护甲与武器/license.txt"
+    ],
+    "description_sources": [
+      "rpg/Icons/护甲与武器/readme.txt"
+    ]
+  },
+  {
+    "id": "c576aed475955be3",
+    "source": "rpg/Icons/斗篷与腰带",
+    "output_prefix": "assets/rpg/Icons/斗篷与腰带",
+    "png_count": 100,
+    "bytes": 122951,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/斗篷与腰带/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "e592216b96f4b164",
+    "source": "rpg/Icons/枪手与德鲁伊技能",
+    "output_prefix": "assets/rpg/Icons/枪手与德鲁伊技能",
+    "png_count": 102,
+    "bytes": 137344,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/枪手与德鲁伊技能/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "cabb3562772b5146",
+    "source": "rpg/Icons/武器-1",
+    "output_prefix": "assets/rpg/Icons/武器-1",
+    "png_count": 100,
+    "bytes": 124473,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/武器-1/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "91ec15135d9b8f15",
+    "source": "rpg/Icons/武器-2",
+    "output_prefix": "assets/rpg/Icons/武器-2",
+    "png_count": 100,
+    "bytes": 122150,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/武器-2/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "82e4d1b5066adf08",
+    "source": "rpg/Icons/武器-3",
+    "output_prefix": "assets/rpg/Icons/武器-3",
+    "png_count": 100,
+    "bytes": 122984,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/武器-3/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "b83705036448f195",
+    "source": "rpg/Icons/武器-4",
+    "output_prefix": "assets/rpg/Icons/武器-4",
+    "png_count": 100,
+    "bytes": 122712,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/武器-4/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "788a757d5000b1b6",
+    "source": "rpg/Icons/武器-5",
+    "output_prefix": "assets/rpg/Icons/武器-5",
+    "png_count": 100,
+    "bytes": 125779,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/武器-5/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "6e49fe4b97e3816f",
+    "source": "rpg/Icons/武器-6",
+    "output_prefix": "assets/rpg/Icons/武器-6",
+    "png_count": 70,
+    "bytes": 86796,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/武器-6/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "8dd3e86cd1998b67",
+    "source": "rpg/Icons/火术师与水术师技能",
+    "output_prefix": "assets/rpg/Icons/火术师与水术师技能",
+    "png_count": 101,
+    "bytes": 132892,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/火术师与水术师技能/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "7c1bf4ac258cdf08",
+    "source": "rpg/Icons/炼金术士与萨满技能",
+    "output_prefix": "assets/rpg/Icons/炼金术士与萨满技能",
+    "png_count": 102,
+    "bytes": 138713,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/炼金术士与萨满技能/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "202c0b1e9ed8e4e7",
+    "source": "rpg/Icons/牧师与吟游诗人技能",
+    "output_prefix": "assets/rpg/Icons/牧师与吟游诗人技能",
+    "png_count": 101,
+    "bytes": 130481,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/牧师与吟游诗人技能/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "bf93b864f68ee631",
+    "source": "rpg/Icons/物品-1",
+    "output_prefix": "assets/rpg/Icons/物品-1",
+    "png_count": 320,
+    "bytes": 396904,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/物品-1/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "02c524bd23915f8f",
+    "source": "rpg/Icons/物品-2",
+    "output_prefix": "assets/rpg/Icons/物品-2",
+    "png_count": 100,
+    "bytes": 127286,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/物品-2/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "6cefc70b9191f7c7",
+    "source": "rpg/Icons/状态效果",
+    "output_prefix": "assets/rpg/Icons/状态效果",
+    "png_count": 122,
+    "bytes": 223394,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/状态效果/license.txt"
+    ],
+    "description_sources": [
+      "rpg/Icons/状态效果/ReadMe.txt"
+    ]
+  },
+  {
+    "id": "385e1316ee7e0b34",
+    "source": "rpg/Icons/猎人与战士技能",
+    "output_prefix": "assets/rpg/Icons/猎人与战士技能",
+    "png_count": 101,
+    "bytes": 130850,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/猎人与战士技能/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "19dce06ad1df203a",
+    "source": "rpg/Icons/盗贼与术士技能",
+    "output_prefix": "assets/rpg/Icons/盗贼与术士技能",
+    "png_count": 101,
+    "bytes": 131138,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/盗贼与术士技能/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "3488cf1a4e729b97",
+    "source": "rpg/Icons/盾牌",
+    "output_prefix": "assets/rpg/Icons/盾牌",
+    "png_count": 100,
+    "bytes": 126390,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/盾牌/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "cf573e03b15193c8",
+    "source": "rpg/Icons/自然物品",
+    "output_prefix": "assets/rpg/Icons/自然物品",
+    "png_count": 100,
+    "bytes": 127326,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/自然物品/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "c8a7e211e3d4e46d",
+    "source": "rpg/Icons/药水",
+    "output_prefix": "assets/rpg/Icons/药水",
+    "png_count": 1100,
+    "bytes": 1357110,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/药水/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "92ac10c2a3a94c1b",
+    "source": "rpg/Icons/资源-1",
+    "output_prefix": "assets/rpg/Icons/资源-1",
+    "png_count": 100,
+    "bytes": 125992,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/资源-1/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "34e615236db00303",
+    "source": "rpg/Icons/资源-2",
+    "output_prefix": "assets/rpg/Icons/资源-2",
+    "png_count": 100,
+    "bytes": 128796,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/资源-2/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "9685fcc87381e06a",
+    "source": "rpg/Icons/资源-3",
+    "output_prefix": "assets/rpg/Icons/资源-3",
+    "png_count": 101,
+    "bytes": 148375,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/资源-3/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "cb294fdba9505472",
+    "source": "rpg/Icons/钓鱼与采集",
+    "output_prefix": "assets/rpg/Icons/钓鱼与采集",
+    "png_count": 14,
+    "bytes": 155094,
+    "format": "png",
+    "aliases": [
+      "PNG/Icons/fishing-gathering-rpg-icons"
+    ],
+    "license_sources": [
+      "rpg/Icons/钓鱼与采集/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Icons/钓鱼与采集/readme.txt"
+    ]
+  },
+  {
+    "id": "885c15d7ac699117",
+    "source": "rpg/Icons/骑士与武僧技能",
+    "output_prefix": "assets/rpg/Icons/骑士与武僧技能",
+    "png_count": 100,
+    "bytes": 124966,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/骑士与武僧技能/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "c149530ed60976fe",
+    "source": "rpg/Icons/骑士护甲",
+    "output_prefix": "assets/rpg/Icons/骑士护甲",
+    "png_count": 100,
+    "bytes": 125069,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/骑士护甲/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "22489e1671e1001a",
+    "source": "rpg/Icons/魔杖与书",
+    "output_prefix": "assets/rpg/Icons/魔杖与书",
+    "png_count": 100,
+    "bytes": 122529,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/魔杖与书/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "4f714b276b3ecd20",
+    "source": "rpg/Icons/魔法增益减益",
+    "output_prefix": "assets/rpg/Icons/魔法增益减益",
+    "png_count": 122,
+    "bytes": 234536,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/魔法增益减益/license.txt"
+    ],
+    "description_sources": [
+      "rpg/Icons/魔法增益减益/ReadMe.txt"
+    ]
+  },
+  {
+    "id": "537d7f55e0400481",
+    "source": "rpg/Icons/魔法增益诅咒",
+    "output_prefix": "assets/rpg/Icons/魔法增益诅咒",
+    "png_count": 122,
+    "bytes": 224327,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "rpg/Icons/魔法增益诅咒/license.txt"
+    ],
+    "description_sources": [
+      "rpg/Icons/魔法增益诅咒/ReadMe.txt"
+    ]
+  },
+  {
+    "id": "9f237d6aa7537297",
+    "source": "rpg/Tilesets/craftpix-net-125640-dungeon-tileset-pixel-top-down-for-indie-game",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-125640-dungeon-tileset-pixel-top-down-for-indie-game",
+    "png_count": 26,
+    "bytes": 392324,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/独立风地牢_dungeon-tileset-indie"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-125640-dungeon-tileset-pixel-top-down-for-indie-game/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-125640-dungeon-tileset-pixel-top-down-for-indie-game/readme.txt"
+    ]
+  },
+  {
+    "id": "257992565b438bd0",
+    "source": "rpg/Tilesets/craftpix-net-169442-free-2d-top-down-pixel-dungeon-asset-pack",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-169442-free-2d-top-down-pixel-dungeon-asset-pack",
+    "png_count": 22,
+    "bytes": 323826,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/地牢_dungeon"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-169442-free-2d-top-down-pixel-dungeon-asset-pack/license.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-169442-free-2d-top-down-pixel-dungeon-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "2a71db8b2718373c",
+    "source": "rpg/Tilesets/craftpix-net-189510-grassland-top-down-tileset-pixel-art",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-189510-grassland-top-down-tileset-pixel-art",
+    "png_count": 88,
+    "bytes": 731620,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/草原_grassland-tileset"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-189510-grassland-top-down-tileset-pixel-art/license.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-189510-grassland-top-down-tileset-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "c7879aaff7eed8dd",
+    "source": "rpg/Tilesets/craftpix-net-189780-free-top-down-pixel-art-guild-hall-asset-pack",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-189780-free-top-down-pixel-art-guild-hall-asset-pack",
+    "png_count": 100,
+    "bytes": 722098,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/公会大厅_guild-hall"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-189780-free-top-down-pixel-art-guild-hall-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-189780-free-top-down-pixel-art-guild-hall-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "b41ae77dca32df2b",
+    "source": "rpg/Tilesets/craftpix-net-235765-rocky-top-down-tileset-pixel-art-for-rpg",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-235765-rocky-top-down-tileset-pixel-art-for-rpg",
+    "png_count": 134,
+    "bytes": 1086256,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/岩石地形_rocky-tileset-rpg"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-235765-rocky-top-down-tileset-pixel-art-for-rpg/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-235765-rocky-top-down-tileset-pixel-art-for-rpg/readme.txt"
+    ]
+  },
+  {
+    "id": "887d488556703847",
+    "source": "rpg/Tilesets/craftpix-net-289481-mage-tower-top-down-pixel-art-asset-pack",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-289481-mage-tower-top-down-pixel-art-asset-pack",
+    "png_count": 156,
+    "bytes": 904113,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/法师塔_mage-tower"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-289481-mage-tower-top-down-pixel-art-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-289481-mage-tower-top-down-pixel-art-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "122353d77c07b1f0",
+    "source": "rpg/Tilesets/craftpix-net-298079-top-down-dungeon-pixel-tileset-for-rpg-and-roguelike-game",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-298079-top-down-dungeon-pixel-tileset-for-rpg-and-roguelike-game",
+    "png_count": 38,
+    "bytes": 405522,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/RPG肉鸽地牢_dungeon-tileset-rpg-roguelike"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-298079-top-down-dungeon-pixel-tileset-for-rpg-and-roguelike-game/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-298079-top-down-dungeon-pixel-tileset-for-rpg-and-roguelike-game/readme.txt"
+    ]
+  },
+  {
+    "id": "ee3953f35fdda24a",
+    "source": "rpg/Tilesets/craftpix-net-308585-glowing-cave-top-down-tileset-2d-pixel-art",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-308585-glowing-cave-top-down-tileset-2d-pixel-art",
+    "png_count": 81,
+    "bytes": 637644,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/发光洞穴_glowing-cave-tileset"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-308585-glowing-cave-top-down-tileset-2d-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-308585-glowing-cave-top-down-tileset-2d-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "8b27458ede66fd50",
+    "source": "rpg/Tilesets/craftpix-net-448424-winter-top-down-pixel-art-tileset-for-rpg",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-448424-winter-top-down-pixel-art-tileset-for-rpg",
+    "png_count": 135,
+    "bytes": 1267719,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/冬季_winter-tileset-rpg"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-448424-winter-top-down-pixel-art-tileset-for-rpg/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-448424-winter-top-down-pixel-art-tileset-for-rpg/readme.txt"
+    ]
+  },
+  {
+    "id": "685e4f08938550c9",
+    "source": "rpg/Tilesets/craftpix-net-471853-top-down-farm-with-animals-pixel-art-asset-pack",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-471853-top-down-farm-with-animals-pixel-art-asset-pack",
+    "png_count": 40,
+    "bytes": 743892,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/动物农场_farm-with-animals"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-471853-top-down-farm-with-animals-pixel-art-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-471853-top-down-farm-with-animals-pixel-art-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "179d86c322a94ea1",
+    "source": "rpg/Tilesets/craftpix-net-477432-flying-islands-pixel-art-top-down-tileset",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-477432-flying-islands-pixel-art-top-down-tileset",
+    "png_count": 110,
+    "bytes": 1203983,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/浮空岛_flying-islands-tileset"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-477432-flying-islands-pixel-art-top-down-tileset/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-477432-flying-islands-pixel-art-top-down-tileset/readme.txt"
+    ]
+  },
+  {
+    "id": "d7cfa066bd498e6b",
+    "source": "rpg/Tilesets/craftpix-net-477438-free-chapel-pixel-art-top-down-asset-pack",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-477438-free-chapel-pixel-art-top-down-asset-pack",
+    "png_count": 239,
+    "bytes": 1021659,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/教堂_chapel"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-477438-free-chapel-pixel-art-top-down-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-477438-free-chapel-pixel-art-top-down-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "c557ff5416fa7335",
+    "source": "rpg/Tilesets/craftpix-net-484942-seabed-pixel-art-top-down-tileset",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-484942-seabed-pixel-art-top-down-tileset",
+    "png_count": 15,
+    "bytes": 734375,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/海底_seabed-tileset"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-484942-seabed-pixel-art-top-down-tileset/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-484942-seabed-pixel-art-top-down-tileset/readme.txt"
+    ]
+  },
+  {
+    "id": "67c122ba601163bb",
+    "source": "rpg/Tilesets/craftpix-net-550931-path-and-road-top-down-tileset-pixel-art",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-550931-path-and-road-top-down-tileset-pixel-art",
+    "png_count": 16,
+    "bytes": 306012,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/道路小径_path-road-tileset"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-550931-path-and-road-top-down-tileset-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-550931-path-and-road-top-down-tileset-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "55d8d3851f954f05",
+    "source": "rpg/Tilesets/craftpix-net-624156-swamp-top-down-tileset-pixel-art",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-624156-swamp-top-down-tileset-pixel-art",
+    "png_count": 153,
+    "bytes": 1838016,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/沼泽_swamp-tileset"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-624156-swamp-top-down-tileset-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-624156-swamp-top-down-tileset-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "5822b39184e14de3",
+    "source": "rpg/Tilesets/craftpix-net-626036-pixel-art-training-arena-tileset-for-rpg-games",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-626036-pixel-art-training-arena-tileset-for-rpg-games",
+    "png_count": 187,
+    "bytes": 1112653,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/训练场_training-arena-tileset-rpg"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-626036-pixel-art-training-arena-tileset-for-rpg-games/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-626036-pixel-art-training-arena-tileset-for-rpg-games/readme.txt"
+    ]
+  },
+  {
+    "id": "6b954d70239f9188",
+    "source": "rpg/Tilesets/craftpix-net-654184-main-characters-home-free-top-down-pixel-art-asset",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-654184-main-characters-home-free-top-down-pixel-art-asset",
+    "png_count": 32,
+    "bytes": 1379168,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/主角之家_main-characters-home"
+    ],
+    "license_sources": [],
+    "description_sources": []
+  },
+  {
+    "id": "9b138fa7c927a542",
+    "source": "rpg/Tilesets/craftpix-net-666104-tavern-top-down-pixel-rpg-asset-pack",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-666104-tavern-top-down-pixel-rpg-asset-pack",
+    "png_count": 34,
+    "bytes": 263500,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/酒馆_tavern-rpg"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-666104-tavern-top-down-pixel-rpg-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-666104-tavern-top-down-pixel-rpg-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "7a4b0d70684d5eec",
+    "source": "rpg/Tilesets/craftpix-net-688848-cave-tileset-top-down-pixel-art",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-688848-cave-tileset-top-down-pixel-art",
+    "png_count": 279,
+    "bytes": 1837556,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/洞穴_cave-tileset"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-688848-cave-tileset-top-down-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-688848-cave-tileset-top-down-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "cbbf4acca316d952",
+    "source": "rpg/Tilesets/craftpix-net-692491-free-glassblowers-workshop-top-down-pixel-art-asset",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-692491-free-glassblowers-workshop-top-down-pixel-art-asset",
+    "png_count": 45,
+    "bytes": 502631,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/玻璃工坊_glassblowers-workshop"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-692491-free-glassblowers-workshop-top-down-pixel-art-asset/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-692491-free-glassblowers-workshop-top-down-pixel-art-asset/readme.txt"
+    ]
+  },
+  {
+    "id": "46de056c8ce2b35a",
+    "source": "rpg/Tilesets/craftpix-net-695666-free-undead-tileset-top-down-pixel-art",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-695666-free-undead-tileset-top-down-pixel-art",
+    "png_count": 261,
+    "bytes": 1739559,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/亡灵_undead-tileset"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-695666-free-undead-tileset-top-down-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-695666-free-undead-tileset-top-down-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "996f1a9c779c8859",
+    "source": "rpg/Tilesets/craftpix-net-728196-forest-top-down-tileset-pixel-art",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-728196-forest-top-down-tileset-pixel-art",
+    "png_count": 106,
+    "bytes": 922882,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/森林_forest-tileset"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-728196-forest-top-down-tileset-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-728196-forest-top-down-tileset-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "2ebc37d66090f3e6",
+    "source": "rpg/Tilesets/craftpix-net-741016-pixel-blacksmith-house-interior-and-exterior-assets",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-741016-pixel-blacksmith-house-interior-and-exterior-assets",
+    "png_count": 64,
+    "bytes": 504571,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/铁匠铺内外_blacksmith-house-interior-exterior"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-741016-pixel-blacksmith-house-interior-and-exterior-assets/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "239c6b8383625856",
+    "source": "rpg/Tilesets/craftpix-net-742958-pixel-art-herbalists-hut-top-down-asset-pack",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-742958-pixel-art-herbalists-hut-top-down-asset-pack",
+    "png_count": 28,
+    "bytes": 597174,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/草药师小屋_herbalists-hut"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-742958-pixel-art-herbalists-hut-top-down-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-742958-pixel-art-herbalists-hut-top-down-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "c8bba626e5b22d4e",
+    "source": "rpg/Tilesets/craftpix-net-874337-desert-tileset-top-down-pixel-art",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-874337-desert-tileset-top-down-pixel-art",
+    "png_count": 288,
+    "bytes": 1750833,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/沙漠_desert-tileset"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-874337-desert-tileset-top-down-pixel-art/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-874337-desert-tileset-top-down-pixel-art/readme.txt"
+    ]
+  },
+  {
+    "id": "2b0b871a4f9d52b1",
+    "source": "rpg/Tilesets/craftpix-net-885927-2d-pixel-fishing-village-pack-dock-interior-boats-npcs",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-885927-2d-pixel-fishing-village-pack-dock-interior-boats-npcs",
+    "png_count": 94,
+    "bytes": 751718,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/渔村码头内饰船只NPC_fishing-village-dock-interior-boats-npcs"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-885927-2d-pixel-fishing-village-pack-dock-interior-boats-npcs/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-885927-2d-pixel-fishing-village-pack-dock-interior-boats-npcs/readme.txt"
+    ]
+  },
+  {
+    "id": "a92141e783e5c996",
+    "source": "rpg/Tilesets/craftpix-net-913553-sewer-tileset-and-environment-pixel-art-asset-pack",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-913553-sewer-tileset-and-environment-pixel-art-asset-pack",
+    "png_count": 50,
+    "bytes": 541853,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/下水道环境_sewer-tileset-environment"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-913553-sewer-tileset-and-environment-pixel-art-asset-pack/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-913553-sewer-tileset-and-environment-pixel-art-asset-pack/readme.txt"
+    ]
+  },
+  {
+    "id": "32a796e0860cec44",
+    "source": "rpg/Tilesets/craftpix-net-958568-free-cursed-land-top-down-pixel-art-tileset",
+    "output_prefix": "assets/rpg/Tilesets/craftpix-net-958568-free-cursed-land-top-down-pixel-art-tileset",
+    "png_count": 143,
+    "bytes": 1571294,
+    "format": "png",
+    "aliases": [
+      "PNG/Tilesets/诅咒之地_cursed-land-tileset"
+    ],
+    "license_sources": [
+      "rpg/Tilesets/craftpix-net-958568-free-cursed-land-top-down-pixel-art-tileset/License.txt"
+    ],
+    "description_sources": [
+      "rpg/Tilesets/craftpix-net-958568-free-cursed-land-top-down-pixel-art-tileset/readme.txt"
+    ]
+  },
+  {
+    "id": "b03971419557f0ed",
+    "source": "塔防/craftpix-net-128438-pixel-medieval-big-enemy-for-td-sprites-pack",
+    "output_prefix": "assets/塔防/craftpix-net-128438-pixel-medieval-big-enemy-for-td-sprites-pack",
+    "png_count": 40,
+    "bytes": 88180,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-128438-pixel-medieval-big-enemy-for-td-sprites-pack/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "74d585747f95fc42",
+    "source": "塔防/craftpix-net-195421-river-enemies-pixel-art-for-tower-defense",
+    "output_prefix": "assets/塔防/craftpix-net-195421-river-enemies-pixel-art-for-tower-defense",
+    "png_count": 40,
+    "bytes": 60359,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-195421-river-enemies-pixel-art-for-tower-defense/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "f0f7e449e01c5e90",
+    "source": "塔防/craftpix-net-221601-free-enemy-pixel-pack-for-top-down-defense",
+    "output_prefix": "assets/塔防/craftpix-net-221601-free-enemy-pixel-pack-for-top-down-defense",
+    "png_count": 39,
+    "bytes": 84462,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-221601-free-enemy-pixel-pack-for-top-down-defense/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "50405ef2ffab3682",
+    "source": "塔防/craftpix-net-255707-free-field-enemies-pixel-art-for-tower-defense",
+    "output_prefix": "assets/塔防/craftpix-net-255707-free-field-enemies-pixel-art-for-tower-defense",
+    "png_count": 40,
+    "bytes": 56013,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-255707-free-field-enemies-pixel-art-for-tower-defense/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "7c6575ab99022466",
+    "source": "塔防/craftpix-net-267805-swamp-enemies-top-down-pixel-art",
+    "output_prefix": "assets/塔防/craftpix-net-267805-swamp-enemies-top-down-pixel-art",
+    "png_count": 38,
+    "bytes": 58744,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-267805-swamp-enemies-top-down-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "ed6dd66c2d467b0e",
+    "source": "塔防/craftpix-net-271069-top-down-swamp-bosses-tower-defense-pixel-art",
+    "output_prefix": "assets/塔防/craftpix-net-271069-top-down-swamp-bosses-tower-defense-pixel-art",
+    "png_count": 40,
+    "bytes": 78993,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-271069-top-down-swamp-bosses-tower-defense-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "8edd708bd0ba427f",
+    "source": "塔防/craftpix-net-287876-top-down-wild-animals-pixel-art-sprite-pack",
+    "output_prefix": "assets/塔防/craftpix-net-287876-top-down-wild-animals-pixel-art-sprite-pack",
+    "png_count": 43,
+    "bytes": 49699,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-287876-top-down-wild-animals-pixel-art-sprite-pack/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "45918dcece4971fa",
+    "source": "塔防/craftpix-net-304814-castle-pixel-tileset-for-defense-game",
+    "output_prefix": "assets/塔防/craftpix-net-304814-castle-pixel-tileset-for-defense-game",
+    "png_count": 276,
+    "bytes": 229024,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-304814-castle-pixel-tileset-for-defense-game/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "71b7f10c8a519a78",
+    "source": "塔防/craftpix-net-333047-graveyard-top-down-tileset-pixel-art",
+    "output_prefix": "assets/塔防/craftpix-net-333047-graveyard-top-down-tileset-pixel-art",
+    "png_count": 168,
+    "bytes": 166086,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-333047-graveyard-top-down-tileset-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "0b4816aedad6633a",
+    "source": "塔防/craftpix-net-414584-pixel-village-enemies-for-top-down-tower-defense",
+    "output_prefix": "assets/塔防/craftpix-net-414584-pixel-village-enemies-for-top-down-tower-defense",
+    "png_count": 67,
+    "bytes": 86220,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-414584-pixel-village-enemies-for-top-down-tower-defense/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "b633a33db60ddb96",
+    "source": "塔防/craftpix-net-490676-top-down-graveyard-monsters-pixel-art-sprite-pack",
+    "output_prefix": "assets/塔防/craftpix-net-490676-top-down-graveyard-monsters-pixel-art-sprite-pack",
+    "png_count": 39,
+    "bytes": 83941,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-490676-top-down-graveyard-monsters-pixel-art-sprite-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "e4dd54a3184751ea",
+    "source": "塔防/craftpix-net-504452-free-village-pixel-tileset-for-top-down-defense",
+    "output_prefix": "assets/塔防/craftpix-net-504452-free-village-pixel-tileset-for-top-down-defense",
+    "png_count": 186,
+    "bytes": 165834,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-504452-free-village-pixel-tileset-for-top-down-defense/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "183616a207f9ed33",
+    "source": "塔防/craftpix-net-526848-swamp-tileset-pixel-art-for-tower-defense",
+    "output_prefix": "assets/塔防/craftpix-net-526848-swamp-tileset-pixel-art-for-tower-defense",
+    "png_count": 148,
+    "bytes": 145658,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-526848-swamp-tileset-pixel-art-for-tower-defense/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "991c9c915bd2d2f3",
+    "source": "塔防/craftpix-net-565420-top-down-river-bosses-tower-defense-pixel-art",
+    "output_prefix": "assets/塔防/craftpix-net-565420-top-down-river-bosses-tower-defense-pixel-art",
+    "png_count": 40,
+    "bytes": 79688,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-565420-top-down-river-bosses-tower-defense-pixel-art/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "a2beae8f09bbc413",
+    "source": "塔防/craftpix-net-624794-house-constructor-for-top-down-rpg-asset-pack",
+    "output_prefix": "assets/塔防/craftpix-net-624794-house-constructor-for-top-down-rpg-asset-pack",
+    "png_count": 186,
+    "bytes": 127959,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-624794-house-constructor-for-top-down-rpg-asset-pack/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "6b0d1e727af6c329",
+    "source": "塔防/craftpix-net-658475-free-archer-towers-pixel-art-for-tower-defense",
+    "output_prefix": "assets/塔防/craftpix-net-658475-free-archer-towers-pixel-art-for-tower-defense",
+    "png_count": 69,
+    "bytes": 104376,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-658475-free-archer-towers-pixel-art-for-tower-defense/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "39bb50dc3437141c",
+    "source": "塔防/craftpix-net-665131-free-fields-tileset-pixel-art-for-tower-defense",
+    "output_prefix": "assets/塔防/craftpix-net-665131-free-fields-tileset-pixel-art-for-tower-defense",
+    "png_count": 166,
+    "bytes": 150626,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-665131-free-fields-tileset-pixel-art-for-tower-defense/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "b3e60ea2bc0ccf3a",
+    "source": "塔防/craftpix-net-665477-undead-enemies-pixel-art-for-tower-defense",
+    "output_prefix": "assets/塔防/craftpix-net-665477-undead-enemies-pixel-art-for-tower-defense",
+    "png_count": 39,
+    "bytes": 57150,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-665477-undead-enemies-pixel-art-for-tower-defense/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "cb8ee8cc30e32306",
+    "source": "塔防/craftpix-net-680310-river-tileset-pixel-art-for-tower-defense",
+    "output_prefix": "assets/塔防/craftpix-net-680310-river-tileset-pixel-art-for-tower-defense",
+    "png_count": 329,
+    "bytes": 437870,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-680310-river-tileset-pixel-art-for-tower-defense/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "c01cb750d3254f95",
+    "source": "塔防/craftpix-net-715119-mage-towers-pixel-art-for-tower-defense",
+    "output_prefix": "assets/塔防/craftpix-net-715119-mage-towers-pixel-art-for-tower-defense",
+    "png_count": 36,
+    "bytes": 75069,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-715119-mage-towers-pixel-art-for-tower-defense/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "ff684f72e43565a2",
+    "source": "塔防/craftpix-net-717036-guardian-towers-pixel-art-for-tower-defense",
+    "output_prefix": "assets/塔防/craftpix-net-717036-guardian-towers-pixel-art-for-tower-defense",
+    "png_count": 65,
+    "bytes": 120147,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-717036-guardian-towers-pixel-art-for-tower-defense/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "05d2ff04e8862197",
+    "source": "塔防/craftpix-net-731206-catapult-towers-pixel-art-for-tower-defense",
+    "output_prefix": "assets/塔防/craftpix-net-731206-catapult-towers-pixel-art-for-tower-defense",
+    "png_count": 33,
+    "bytes": 70138,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-731206-catapult-towers-pixel-art-for-tower-defense/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "f07c9ad6928cfdea",
+    "source": "塔防/craftpix-net-805745-free-magic-and-traps-top-down-pixel-art-asset",
+    "output_prefix": "assets/塔防/craftpix-net-805745-free-magic-and-traps-top-down-pixel-art-asset",
+    "png_count": 87,
+    "bytes": 136464,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-805745-free-magic-and-traps-top-down-pixel-art-asset/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "ecdbc58b14f0d580",
+    "source": "塔防/craftpix-net-865357-free-pixel-citizens-for-top-down-tower-defense",
+    "output_prefix": "assets/塔防/craftpix-net-865357-free-pixel-citizens-for-top-down-tower-defense",
+    "png_count": 37,
+    "bytes": 53440,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-865357-free-pixel-citizens-for-top-down-tower-defense/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "3c60a1147b4e005f",
+    "source": "塔防/craftpix-net-889906-top-down-pixel-monster-sprites-for-tower-defense",
+    "output_prefix": "assets/塔防/craftpix-net-889906-top-down-pixel-monster-sprites-for-tower-defense",
+    "png_count": 38,
+    "bytes": 80503,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-889906-top-down-pixel-monster-sprites-for-tower-defense/License.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "b8d5855c5993f99f",
+    "source": "塔防/craftpix-net-907280-medieval-enemy-for-td-pixel-asset-pack",
+    "output_prefix": "assets/塔防/craftpix-net-907280-medieval-enemy-for-td-pixel-asset-pack",
+    "png_count": 40,
+    "bytes": 60640,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-907280-medieval-enemy-for-td-pixel-asset-pack/license.txt"
+    ],
+    "description_sources": []
+  },
+  {
+    "id": "105b448a9b60a388",
+    "source": "塔防/craftpix-net-926699-farm-tileset-pixel-art-asset-pack-for-tower-defense",
+    "output_prefix": "assets/塔防/craftpix-net-926699-farm-tileset-pixel-art-asset-pack-for-tower-defense",
+    "png_count": 162,
+    "bytes": 142773,
+    "format": "png",
+    "aliases": [],
+    "license_sources": [
+      "塔防/craftpix-net-926699-farm-tileset-pixel-art-asset-pack-for-tower-defense/License.txt"
+    ],
+    "description_sources": []
+  }
+]

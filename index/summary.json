@@ -1,0 +1,39 @@
+{
+  "scope": [
+    "rpg",
+    "platformer",
+    "UI",
+    "塔防",
+    "game kits ZIP PNGs"
+  ],
+  "png_count": 68960,
+  "bytes": 2012692389,
+  "unique_sha256_count": 57666,
+  "unique_content_bytes": 1671907109,
+  "excluded_coupon": {
+    "count": 69,
+    "bytes": 19471053,
+    "by_source": {
+      "file": 62,
+      "zip": 7
+    },
+    "bytes_by_source": {
+      "file": 17644452,
+      "zip": 1826601
+    },
+    "mirror_count": 31
+  },
+  "mirror_count": 9847,
+  "mirror_match_count": 9847,
+  "mirror_join": "Join mirrors.sha256 to files.sha256 for all matching paths",
+  "max_png": {
+    "path": "assets/game-kits/craftpix-net-267719-chess-and-checkers-game-kit/GameElements/desk2.png",
+    "bytes": 6580117
+  },
+  "verification": {
+    "planned_count_matches": true,
+    "planned_bytes_match": true,
+    "output_sha256_and_dimensions_verified": true,
+    "mirror_hashes_matched": true
+  }
+}
